@@ -8,17 +8,63 @@ $bg-notice: #f8f1c1;
 $fc-body: #000000;
 $fc-link: #212529; // !important
 
+$border-main: rgb(222, 226, 230);
+
 body {
-  background: $bg-main;
-  color: $fc-body;
-  font-family: $ff-body;
+	background: $bg-main;
+	color: $fc-body;
+	font-family: $ff-body;
 }
 
 body a {
-  color: $fc-link;
+	color: $fc-link;
+}
+
+.primary-header {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding-bottom: 1rem;
+	margin-bottom: 3rem;
+	border-bottom: 1px solid;
+	border-bottom-color: $border-main;
+}
+
+.header-link {
+	display: flex;
+	align-items: center;
+	text-decoration: none;
+}
+
+.site-title {
+	font-size: calc(1.275rem + .3vw);
+	font-weight: 700;
+}
+
+.primary-navigation {
+	display: inline-flex;
+	margin-top: .5rem;
+}
+
+.menu-item {
+	margin-right: 1rem;
+	padding-top: 0.5rem;
+	padding-bottom: 0.5rem;
+	text-decoration: none;
 }
 
 .notice {
-  text-align: center;
-  background: $bg-notice;
+	text-align: center;
+	background: $bg-notice;
 }
+
+@media (min-width: 775px) {
+	.primary-header {
+		flex-direction: row;
+	}
+
+	.primary-navigation {
+		margin-top: 0;
+		margin-left: auto;
+	}
+  }

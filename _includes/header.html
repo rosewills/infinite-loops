@@ -1,15 +1,15 @@
-<header class="d-flex flex-column flex-md-row align-items-center pb-3 mb-5 border-bottom"> <!-- primary-header -->
+<header class="primary-header"> <!-- d-flex flex-column flex-md-row align-items-center pb-3 mb-5 border-bottom -->
 	<div>
-		<a href="{{ site.github.url }}/" class="d-flex align-items-center text-decoration-none"> <!-- d-flex align-items-center text-decoration-none -->
-			<span class="fs-4 fw-bold">{{ site.title }}</span> <!-- site-title-->
+		<a href="{{ site.github.url }}/" class="header-link"> <!-- d-flex align-items-center text-decoration-none -->
+			<span class="site-title">{{ site.title }}</span> <!-- fs-4 fw-bold -->
 		</a>
-		<a href="{{ site.github.url }}/" class="d-flex align-items-center text-decoration-none"> <!-- d-flex align-items-center text-decoration-none -->
+		<a href="{{ site.github.url }}/" class="header-link"> <!-- d-flex align-items-center text-decoration-none -->
 			<span>{{ site.description }}</span> <!-- class="site-description" -->
 		</a>
 	</div>
-	<nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto"> <!-- priary-navigation -->
+	<nav class="primary-navigation"> <!-- d-inline-flex mt-2 mt-md-0 ms-md-auto -->
 			{% for item in site.data.settings.menu %}
-			<a class="me-3 py-2 text-decoration-none" href="{{ site.github.url }}{{ item.url }}">{{ item.name }}</a> <!-- menu-item -->
+			<a class="menu-item" href="{{ site.github.url }}{{ item.url }}">{{ item.name }}</a> <!-- me-3 py-2 text-decoration-none -->
 			{% endfor %}
 	</nav>
 </header>
