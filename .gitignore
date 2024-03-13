@@ -1,6 +1,11 @@
+# Infinite Loops .gitignore
+
 *.gem
 .bundle
 .jekyll-cache
 .sass-cache
 _site
 Gemfile.lock
+
+.obsidian/
+_ofiles/
