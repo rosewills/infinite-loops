@@ -1,0 +1,11 @@
+url: "rosewills.github.io"			# Hostname & protocol of site (e.g. http://example.com)
+baseurl: ""							# Subpath of site (e.g. /blog)
+title: "Rosemary Wills"				# Name of site (e.g. ACME Corp.)
+description: "Welcome to my page!"
+
+
+exclude:							# Ignore these directories when generating the site
+  - "/vendor/"
+  - "/template/"
+  - ".obsidian/"
+  - "ofiles/"
