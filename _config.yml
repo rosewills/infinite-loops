@@ -1,7 +1,7 @@
-url: "rosewills.github.io"			# Hostname & protocol of site (e.g. http://example.com)
+url: "rosewills.github.io/infinite-loops"			# Hostname & protocol of site (e.g. http://example.com)
 baseurl: ""							# Subpath of site (e.g. /blog)
-title: "Rosemary Wills"				# Name of site (e.g. ACME Corp.)
-description: "Welcome to my page!"
+title: "Infinite Loops"				# Name of site (e.g. ACME Corp.)
+description: "Science with yarn, and yarns about science."
 
 
 exclude:							# Ignore these directories when generating the site
