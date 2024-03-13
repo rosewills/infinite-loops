@@ -1,0 +1,24 @@
+$ff-body: "Nanum Myeongjo", serif;
+$ff-heading: "Arvo", serif;
+$ff-mono: "Cutive Mono", monospace;
+
+$bg-main: #ffffff;
+$bg-notice: #f8f1c1;
+
+$fc-body: #000000;
+$fc-link: #212529; // !important
+
+body {
+  background: $bg-main;
+  color: $fc-body;
+  font-family: $ff-body;
+}
+
+body a {
+  color: $fc-link;
+}
+
+.notice {
+  text-align: center;
+  background: $bg-notice;
+}

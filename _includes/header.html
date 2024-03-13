@@ -1,19 +1,15 @@
-<header class="primary-header"> <!-- d-flex flex-column flex-md-row align-items-center pb-3 mb-5 border-bottom -->
-	<div class="container">
-		<a href="{{ site.github.url }}/"> <!-- d-flex align-items-center text-decoration-none -->
-			<span class="site-title">{{ site.title }}</span> <!-- fs-4 fw-bold -->
+<header class="d-flex flex-column flex-md-row align-items-center pb-3 mb-5 border-bottom"> <!-- primary-header -->
+	<div>
+		<a href="{{ site.github.url }}/" class="d-flex align-items-center text-decoration-none"> <!-- d-flex align-items-center text-decoration-none -->
+			<span class="fs-4 fw-bold">{{ site.title }}</span> <!-- site-title-->
 		</a>
-
-		<a href="{{ site.github.url }}/"> <!-- d-flex align-items-center text-decoration-none -->
-			<span class="site-description">{{ site.description }}</span>
+		<a href="{{ site.github.url }}/" class="d-flex align-items-center text-decoration-none"> <!-- d-flex align-items-center text-decoration-none -->
+			<span>{{ site.description }}</span> <!-- class="site-description" -->
 		</a>
-		
-		<nav class="primary-navigation"> <!-- d-inline-flex mt-2 mt-md-0 ms-md-auto -->
-			<ul role="list" class="nav-list">
-				{% for item in site.data.settings.menu %}
-				<li><a class="menu-item" href="{{ site.github.url }}{{ item.url }}">{{ item.name }}</a></li> <!-- me-3 py-2 text-decoration-none -->
-				{% endfor %}
-			</ul>
-		</nav>
 	</div>
+	<nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto"> <!-- priary-navigation -->
+			{% for item in site.data.settings.menu %}
+			<a class="me-3 py-2 text-decoration-none" href="{{ site.github.url }}{{ item.url }}">{{ item.name }}</a> <!-- menu-item -->
+			{% endfor %}
+	</nav>
 </header>
