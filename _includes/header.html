@@ -1,0 +1,19 @@
+<header class="primary-header"> <!-- d-flex flex-column flex-md-row align-items-center pb-3 mb-5 border-bottom -->
+	<div class="container">
+		<a href="{{ site.github.url }}/"> <!-- d-flex align-items-center text-decoration-none -->
+			<span class="site-title">{{ site.title }}</span> <!-- fs-4 fw-bold -->
+		</a>
+
+		<a href="{{ site.github.url }}/"> <!-- d-flex align-items-center text-decoration-none -->
+			<span class="site-description">{{ site.description }}</span>
+		</a>
+		
+		<nav class="primary-navigation"> <!-- d-inline-flex mt-2 mt-md-0 ms-md-auto -->
+			<ul role="list" class="nav-list">
+				{% for item in site.data.settings.menu %}
+				<li><a class="menu-item" href="{{ site.github.url }}{{ item.url }}">{{ item.name }}</a></li> <!-- me-3 py-2 text-decoration-none -->
+				{% endfor %}
+			</ul>
+		</nav>
+	</div>
+</header>
