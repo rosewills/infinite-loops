@@ -12,10 +12,13 @@ bcover: ""
 logo:
 future: false
 
+permalink: /:year/:month/:day/:title.html
+
 plugins:
   - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-postfiles
 
 exclude:							# Ignore these directories when generating the site
   - "/vendor/"

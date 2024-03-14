@@ -35,6 +35,12 @@ body a {
 	border-bottom-color: $border-main;
 }
 
+.primary-navigation {
+	display: inline-flex;
+	justify-content: center;
+	margin-top: 0rem;
+}
+
 .header-link {
 	display: flex;
 	align-items: center;
@@ -51,14 +57,8 @@ body a {
 
 .site-description {
 	display: flex;
+	justify-content: center;
 	font-style: italic;
-	justify-content: center;
-}
-
-.primary-navigation {
-	display: inline-flex;
-	justify-content: center;
-	margin-top: 0rem;
 }
 
 .menu-item {

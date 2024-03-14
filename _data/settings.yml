@@ -1,14 +1,7 @@
 menu:
 - {name: "blog", url: "/blog"}
-- {name: "projects", url: "/projects"}
-- {name: "writing", url: "/writing"}
-- {name: "tutoring", url: "/tutoring"}
+- {name: "articles", url: "/writing"}
 - {name: "contact", url: "/contact"}
-
-projects:
-- {name: "Studies in Gravity", url: "studies-in-gravity", type: "Writing"}
-- {name: "Infinite Loops", url: "infinite-loops", type: "Writing"}
-- {name: "O Antiphons", url: "o-antiphons", type: "webdev"}
 
 social:
 - {site: "Linkedin", user: "rmvwills", icon: "linkedin", link: "https://linkedin.com/in/rmvwills/"}
