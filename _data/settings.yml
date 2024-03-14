@@ -1,9 +1,8 @@
 menu:
-# - {name: "O Antiphons", url: "https://rosewills.github.io/o-antiphons"}
 - {name: "blog", url: "/blog"}
 - {name: "projects", url: "/projects"}
 - {name: "writing", url: "/writing"}
-# - {name: "tutoring", url: "/tutoring"}
+- {name: "tutoring", url: "/tutoring"}
 - {name: "contact", url: "/contact"}
 
 projects:

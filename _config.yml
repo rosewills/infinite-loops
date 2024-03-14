@@ -1,8 +1,21 @@
-url: "rosewills.github.io/infinite-loops"			# Hostname & protocol of site (e.g. http://example.com)
-baseurl: ""							# Subpath of site (e.g. /blog)
+url: "https://rosewills.github.io"			# Hostname & protocol of site (e.g. http://example.com)
+baseurl: "/infinite-loops"							# Subpath of site (e.g. /blog)
 title: "Infinite Loops"				# Name of site (e.g. ACME Corp.)
 description: "Science with yarn, and yarns about science."
+email: rmvwills@gmail.com
+name: Rose Wills
 
+
+cover: ""
+acover: ""	# /assets/art/windowsill.png
+bcover: ""
+logo:
+future: false
+
+plugins:
+  - jekyll-archives # Sorry, not GitHub pages friendly!
+  - jekyll-sitemap
+  - jekyll-paginate
 
 exclude:							# Ignore these directories when generating the site
   - "/vendor/"
