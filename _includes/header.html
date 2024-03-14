@@ -7,7 +7,7 @@
 	</div>
 	<nav class="primary-navigation"> <!-- d-inline-flex mt-2 mt-md-0 ms-md-auto -->
 			{% for item in site.data.settings.menu %}
-			<a class="menu-item" href="{{ site.github.url }}{{ item.url }}">{{ item.name }}</a> <!-- me-3 py-2 text-decoration-none -->
+			<a class="menu-item" href="{{ item.url | prepend: site.baseurl }}">{{ item.name }}</a> <!-- me-3 py-2 text-decoration-none -->
 			{% endfor %}
 	</nav>
 </header>

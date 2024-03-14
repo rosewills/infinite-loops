@@ -74,6 +74,18 @@ body a {
 	background: $bg-notice;
 }
 
+// Blog Posts
+
+
+.post-title {
+	justify-content: center;
+	font-weight: 700;
+	padding-bottom: 1rem;
+	margin-bottom: 3rem;
+	border-bottom: 1px solid;
+	border-bottom-color: $border-main;
+}
+
 img,
 .caption,
 .credit {
