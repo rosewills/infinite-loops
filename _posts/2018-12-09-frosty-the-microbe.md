@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "Frosty the Microbe"
-description: 
+description: "These bacteria are super cool."
 date: 2018-12-09
 author: Rosemary Wills
 categories: science-writing
 tags: microbiology, seasonal
-cover: ""
-preview: "" 
+cover: "snowflakes-on-handrail.jpg"
+preview: "snowflakes-on-handrail.jpg" 
+cover-alt: "ALT: snowflakes on a handrail."
 published: true
 ---
 <span class="source">This article was written for Athens Science Observer. [You can read it here.](https://athensscienceobserver.com/2018/12/09/frosty-the-microbe/)</span>

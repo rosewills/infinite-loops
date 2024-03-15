@@ -6,8 +6,8 @@ date: 2024-03-15
 author: Rosemary Wills
 categories: science-writing
 tags: microbiology, seasonal
-cover: "{% link /assets/images/posts/snowflakes-on-handrail.jpg %}"
-preview: "" 
+cover: 
+preview: 
 published: true
 ---
 
