@@ -2,7 +2,10 @@ $ff-body: "Nanum Myeongjo", serif;
 $ff-heading: "Arvo", serif;
 $ff-mono: "Cutive Mono", monospace;
 
+$fs-body: 1rem;
 $fs-aside: .75rem;
+$fs-caption: .85rem;
+$fs-credit: .75rem;
 
 $bg-main: #ffffff;
 $bg-notice: #f8f1c1;
@@ -74,8 +77,8 @@ body a {
 	background: $bg-notice;
 }
 
-// Blog Posts
 
+// Blog Posts
 
 .post-title {
 	justify-content: center;
@@ -84,6 +87,11 @@ body a {
 	margin-bottom: 3rem;
 	border-bottom: 1px solid;
 	border-bottom-color: $border-main;
+}
+
+img {
+	margin-top: 1.5rem;
+	margin-bottom: 1rem;
 }
 
 img,
@@ -97,20 +105,18 @@ img,
 
 .caption,
 .credit {
-	font-size: $fs-aside;
 	text-align: center;
 }
 
+.caption {
+	font-size: $fs-caption;
+}
+
 .credit {
+	font-size: $fs-credit;
 	font-style: italic;
-	color: rgb(103, 103, 103);
+	color: rgb(172, 172, 172);
 }
-
-.source {
-	font-style: italic;
-	font-weight: bold;
-}
-
 
 // .landing-section {
 // 	display: flex;
