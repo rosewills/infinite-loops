@@ -7,16 +7,34 @@ $fs-aside: .75rem;
 $fs-caption: .85rem;
 $fs-credit: .75rem;
 
+$fs-h1: calc(1.325rem + .9vw);
+$fs-h2: calc(1.3rem + .6vw);
+$fs-h3: calc(1.275rem + .3vw);
+$fs-h4: 1.25rem;
+$fs-h5: 1rem;
+$fs-h6: 1rem;
+
+
+$fs-site-title: 3rem;
+$fs-post-title: calc(1.375rem + 1.5vw);
+
+$fw-site-title: 400;
+$fw-post-title: 300;
+
 $bg-main: #ffffff;
 $bg-notice: #f8f1c1;
 
 $fc-body: #000000;
 $fc-link: #212529;
+$fc-fade: rgb(172, 172, 172);
 
 $border-main: rgb(222, 226, 230);
 
 $gutter-x: 3rem;
 $gutter-y: 3rem;
+
+
+// ---------- Body Text ----------
 
 body {
 	background: $bg-main;
@@ -27,6 +45,44 @@ body {
 body a {
 	color: $fc-link;
 }
+
+
+// ---------- Headings ----------
+
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+	font-family: $ff-heading;
+	margin-top: 0;
+	margin-bottom: .5rem;
+	font-weight: 500;
+	line-height: 1.3;
+}
+
+h1, .h1 {
+	font-size: $fs-h1
+}
+h2, .h2 {
+	font-size: $fs-h2
+}
+h3, .h3 {
+	font-size: $fs-h3
+}
+h4, .h4 {
+	font-size: $fs-h4
+}
+h5, .h5 {
+	font-size: $fs-h5
+}
+h6, .h6 {
+	font-size: $fs-h6
+}
+
+
+// ---------- Site Header ----------
 
 .primary-header {
 	display: flex;
@@ -53,8 +109,8 @@ body a {
 .site-title {
 	display: flex;
 	font-family: $ff-heading;
-	font-size: 3rem;
-	font-weight: 400;
+	font-size: $fs-site-title;
+	font-weight: $fw-site-title;
 	text-transform: capitalize;
 }
 
@@ -72,23 +128,26 @@ body a {
 	text-decoration: none;
 }
 
-.notice {
-	text-align: center;
-	background: $bg-notice;
-}
 
-
-// Blog Posts
+// ---------- Blog Posts ----------
 
 .post-title {
-	justify-content: center;
-	font-weight: 700;
-	padding-bottom: 1rem;
+	text-align: center;
 	margin-bottom: 3rem;
+	padding-bottom: 1rem;
 	border-bottom: 1px solid;
 	border-bottom-color: $border-main;
+	font-family: $ff-heading;
+	font-size: $fs-post-title;
+	font-weight: $fw-post-title;
 }
 
+.source {
+	font-style: italic;
+	font-weight: bold;
+}
+
+// Images & Captions
 img {
 	margin-top: 1.5rem;
 	margin-bottom: 1rem;
@@ -115,7 +174,15 @@ img,
 .credit {
 	font-size: $fs-credit;
 	font-style: italic;
-	color: rgb(172, 172, 172);
+	color: $fc-fade;
+}
+
+
+// ---------- Global ----------
+
+.notice {
+	text-align: center;
+	background: $bg-notice;
 }
 
 // .landing-section {
