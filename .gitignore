@@ -7,9 +7,10 @@
 _site
 Gemfile.lock
 
+# RW's files
 .obsidian/
 ofiles/
-
+gitlist
 
 # Vite
 ## Logs
