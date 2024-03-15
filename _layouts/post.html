@@ -9,21 +9,28 @@ layout: default
 			<div class="scrim {% if page.cover %}has-cover{% endif %}">
 				<div class="post-title">{{ page.title }}</div> <!-- fw-bold border-bottom pb-3 mb-5 -->
 			</div>
+			<table class="meta-section">
+				<tr>
+					<td class="meta-side">
+						{{ page.date | date: "%B %-d, %Y" }}
+					</td>
+					<td class="meta-center">
+						by <strong>{{ page.author }}</strong>
+					</td>
+					<td class="meta-side">
+						<div class="post-categories">
+							{% if page.categories.size > 0 %}in {% for cat in page.categories %}
+							{% if site.jekyll-archives %}
+							<a href="{{ site.baseurl }}/category/{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
+							{% else %}
+							<a href="{{ site.baseurl }}/posts/#{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
+							{% endif %}
+							{% endfor %}{% endif %}
+						</div>
+					</td>
+				</tr>
+			</table>
 		</div>
-		
-		<section>
-			{{ page.date | date: "%B %-d, %Y" }}
-			<div class="post-categories">
-			{% if page.categories.size > 0 %}in {% for cat in page.categories %}
-				{% if site.jekyll-archives %}
-				<a href="{{ site.baseurl }}/category/{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
-				{% else %}
-				<a href="{{ site.baseurl }}/posts/#{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
-				{% endif %}
-			{% endfor %}{% endif %}
-			</div>
-			by <strong>{{ page.author }}</strong>
-		</section>
 		{{ content }}
 	</div>
 </div>

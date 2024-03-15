@@ -143,6 +143,7 @@ h6, .h6 {
 	height: 15rem;
 	text-align: center;
 	background-color: #ffffff;
+	margin-bottom: 2rem;
 	&.has-cover {
 		background-size: cover;
 		background-repeat: no-repeat;
@@ -156,27 +157,45 @@ h6, .h6 {
 	}
 }
 
-.post-title {
+.cover {
+	position: relative;
+}
+
+.post-title,
+.meta-section {
 	position: absolute;
-	bottom:10px;
 	left: 0; 
 	right: 0;
 	margin-left: auto;
 	margin-right: auto;
-	// margin-top: 2rem;
-	// margin-bottom: 2rem;
-	// padding-bottom: 2rem;
-	// border-bottom: 1px solid;
+}
+
+.post-title{
+	max-width: 90%;
+	bottom: 2rem;
 	font-family: $ff-heading;
 	font-size: $fs-post-title;
 	font-weight: $fw-post-title;
 }
 
-.cover {
-	max-width: 90%;
+.meta-section {
+	width: 100%;
+	bottom: 0rem;
+	margin-top: 1rem;
+	margin-bottom: 0rem;
+}
+
+.meta-side {
+	width: 25%;
+}
+
+.meta-center {
+	width: 50%;
+	text-align: center;
 }
 
 .source {
+	font-size: $fs-caption;
 	font-style: italic;
 	font-weight: bold;
 }
