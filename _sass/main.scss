@@ -138,15 +138,17 @@ h6, .h6 {
 // ---------- Blog Posts ----------
 
 .post-header {
+	position: relative;
 	width: 100%;
+	height: 15rem;
 	text-align: center;
 	background-color: #ffffff;
 	&.has-cover {
 		background-size: cover;
 		background-repeat: no-repeat;
 	}
-
 	.scrim {
+		width: 100%;
 		padding: 0em 0em;
 		&.has-cover {
 			background-color: rgba(0,0,0,0.2);
@@ -155,13 +157,16 @@ h6, .h6 {
 }
 
 .post-title {
-	display: inline-block;
-	vertical-align: middle;
-	margin-top: 2rem;
-	margin-bottom: 2rem;
-	padding-bottom: 2rem;
-	border-bottom: 1px solid;
-	border-bottom-color: $border-main;
+	position: absolute;
+	bottom:10px;
+	left: 0; 
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	// margin-top: 2rem;
+	// margin-bottom: 2rem;
+	// padding-bottom: 2rem;
+	// border-bottom: 1px solid;
 	font-family: $ff-heading;
 	font-size: $fs-post-title;
 	font-weight: $fw-post-title;
