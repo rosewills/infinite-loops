@@ -1,19 +1,20 @@
 ---
 layout: post
 title: Your Friendly Neighborhood Waxwings
-description: "Holly bushes beware."
+description: Holly bushes beware.
 date: 2018-03-01
 author: Rosemary Wills
 categories: science-writing
 tags:
-- microbiology
-- seasonal
+  - microbiology
+  - seasonal
 cover: waxwing-branch.jpg
 preview: waxwing-double-berry.jpg
 published: true
+source: Athens Science Observer
+source-url: https://athensscienceobserver.com/2018/03/01/your-friendly-neighborhood-waxwings/
+source-title: Your Friendly Neighborhood Waxwings - Athens Science Observer
 ---
-<span class="source">This article was written for Athens Science Observer. [You can read it here.](https://athensscienceobserver.com/2018/03/01/your-friendly-neighborhood-waxwings/)</span>
-
 Birds are typically known for their grace and elegance. They emerge from the lingering chill of winter to soar gracefully overhead, surprise us with brilliant plumage, wake us at ungodly hours with their joyful pre-dawn chorus...
 
 And then there's the waxwings.

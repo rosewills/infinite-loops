@@ -28,6 +28,11 @@ layout: default
 				</div>
 			</div>
 		</div>
+		{% if page.source %}
+			<div class="source">
+				This article was originally written for {{ page.source }}{% if page.source-url %}, and published here: <a href="{{ page.source-url }}">{% if page.source-title %}{{ page.source-title }}{% else %}{{ page.source }}{% endif %}</a>{% else %}.{% endif %}
+			</div>
+		{% endif %}
 		{{ content }}
 	</div>
 </div>

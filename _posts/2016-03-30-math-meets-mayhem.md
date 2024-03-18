@@ -2,17 +2,21 @@
 layout: post
 title: Math Meets Mayhem
 subtitle: (How Fractals Shape the Universe)
-description: "The fun goes on and on..."
+description: The fun goes on and on...
 date: 2016-03-30
 author: Rosemary Wills
 categories: science-writing
 tags:
-- math
-- fractals
+  - math
+  - fractals
 cover: fractal-plant.jpg
 preview: fractal-plant.jpg
-cover-alt:
+cover-alt: 
 published: true
+source: Athens Science Observer
+source-url: https://athensscienceobserver.com/2016/03/30/math-meets-mayhem-how-fractals-shape-the-universe/
+source-title: "Math Meets Mayhem: How Fractals Shape the Universe"
+ready: true
 ---
 <span class="credit">
 Cover image credit:
@@ -21,8 +25,6 @@ via
 <a href="https://unsplash.com/photos/green-succulent-plant-IGTbJYQfusY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 (<a href="https://unsplash.com/license">License</a>)
 </span>
-
-<span class="source">This article was written for Athens Science Observer. [You can read it here.](https://athensscienceobserver.com/2016/03/30/math-meets-mayhem-how-fractals-shape-the-universe/)</span>
 
 By strategically eating a single spaghetti noodle, you can make it last forever.
 

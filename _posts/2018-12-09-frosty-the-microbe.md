@@ -1,18 +1,21 @@
 ---
 layout: post
-title:  "Frosty the Microbe"
-description: "These bacteria are super cool."
+title: Frosty the Microbe
+description: These bacteria are super cool.
 date: 2018-12-09
 author: Rosemary Wills
 categories: science-writing
-tags: microbiology, seasonal
-cover: "snowflakes-on-handrail.jpg"
-preview: "snowflakes-on-handrail.jpg" 
+tags:
+  - microbiology
+  - seasonal
+cover: snowflakes-on-handrail.jpg
+preview: snowflakes-on-handrail.jpg
 cover-alt: "ALT: snowflakes on a handrail."
 published: true
+source: Athens Science Observer
+source-url: https://athensscienceobserver.com/2018/12/09/frosty-the-microbe/
+source-title: Frosty the Microbe - Athens Science Observer
 ---
-<span class="source">This article was written for Athens Science Observer. [You can read it here.](https://athensscienceobserver.com/2018/12/09/frosty-the-microbe/)</span>
-
 'Tis the season for stories of wintery magic. From [Elsa](https://frozen.disney.com/elsa) and [Frozone](https://www.youtube.com/watch?v=8v3V7ZPRGyY) to their mythical grandfather, [Jack Frost](https://en.wikipedia.org/wiki/Jack_Frost), there's no cooler gift than the power to let it snow at will, or shock a pond skate-worthy with a single touch.
 
 Little do we realize that these chilly abilities aren't limited to the realm of holiday lore. If a microbiologist were writing the legends, they'd call Jack Frost by his scientific name: *Pseudomonas syringae*. Known for generations as the artist who sprinkles leaves with glitter on crisp winter mornings and blankets the landscape with snow, they'd add that he also happens to be [about two and a half microns tall](https://apsjournals.apsnet.org/doi/pdf/10.1094/PHYTO.2003.93.10.1209), and a well-studied plant pathogen.

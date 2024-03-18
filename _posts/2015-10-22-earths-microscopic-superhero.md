@@ -1,20 +1,22 @@
 ---
 layout: post
 title: Earth's Microscopic Superhero
-description: "On the mythical abilities of your friendly neighborhood microbes."
+description: On the mythical abilities of your friendly neighborhood microbes.
 date: 2015-10-22
 author: Rosemary Wills
 categories: science-writing
 tags:
-- microbiology
-- extremophiles
+  - microbiology
+  - extremophiles
 cover: tiny-batman-cover.jpg
 preview: tiny-batman.jpg
-cover-alt:
+cover-alt: 
 published: true
+source: Athens Science Observer
+source-url: https://athensscienceobserver.com/2015/10/22/earths-microscopic-superhero/
+source-title: Earth's Microscopic Superhero
+ready: true
 ---
-<span class="source">This article was written for Athens Science Observer. [You can read it here.](https://athensscienceobserver.com/2015/10/22/earths-microscopic-superhero/)</span>
-
 Everyone loves a good superhero, and while the mythical abilities of our favorite crime-fighting defenders have captured imaginations for decades, our own humble planet has produced organisms that make the fictional feats of [Iron Man](http://marvel.wikia.com/wiki/Iron_Man) or [Captain America](http://marvel.wikia.com/wiki/Captain_America_(Steven_Rogers)) pale in comparison. In fact, one of the most impressive real-life superheros can be found right under our noses - or, more accurately, under our feet.
 
 [![tiny-batman.jpg]({% link /assets/images/posts/tiny-batman.jpg %})](/assets/images/posts/tiny-batman.jpg)
