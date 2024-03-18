@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your Friendly Neighborhood Waxwings
-description:
+description: "Holly bushes beware."
 date: 2018-03-01
 author: Rosemary Wills
 categories: science-writing

@@ -227,6 +227,7 @@ img,
 	max-width: 75%;
 	margin-left: auto;
 	margin-right: auto;	
+	margin-bottom: .5rem;
 }
 
 .caption,
@@ -234,11 +235,13 @@ img,
 	text-align: center;
 }
 
-.caption {
+.caption,
+.caption a {
 	font-size: $fs-caption;
 }
 
-.credit {
+.credit,
+.credit a {
 	font-size: $fs-credit;
 	font-style: italic;
 	color: $fc-fade;
