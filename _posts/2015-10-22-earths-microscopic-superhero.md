@@ -8,15 +8,16 @@ categories: science-writing
 tags:
   - microbiology
   - extremophiles
-cover: 
-preview: 
+cover: tiny-batman-cover.jpg
+preview: tiny-batman.jpg
 cover-alt: 
 published: true
 ---
 Everyone loves a good superhero, and while the mythical abilities of our favorite crime-fighting defenders have captured imaginations for decades, our own humble planet has produced organisms that make the fictional feats of [Iron Man](http://marvel.wikia.com/wiki/Iron_Man) or [Captain America](http://marvel.wikia.com/wiki/Captain_America_(Steven_Rogers)) pale in comparison. In fact, one of the most impressive real-life superheros can be found right under our noses â€” or, more accurately, under our feet.
 
-[![tiny-batman.jpg]({% link /assets/images/posts/tiny-batman.jpg %}](/assets/images/posts/tiny-batman.jpg)
-Photo by [Ali Kokab](https://unsplash.com/@_alikokab_?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)on [Unsplash](https://unsplash.com/photos/silhouette-of-bird-on-top-of-brown-wooden-shelf-Yv2HzOr8jAA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+[![tiny-batman.jpg]({% link /assets/images/posts/tiny-batman.jpg %})](/assets/images/posts/tiny-batman.jpg)
+<span class="caption"></span>
+<span class="credit">Image credit: [Ali Kokab](https://unsplash.com/@_alikokab_?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) via [Unsplash](https://unsplash.com/photos/silhouette-of-bird-on-top-of-brown-wooden-shelf-Yv2HzOr8jAA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash). Licensed under [Unsplash License](https://unsplash.com/license).</span>
 
 Ladies and gentlemen, meet _Deinococcus radiodurans_: Earth’s microscopic [Superman](http://dc.wikia.com/wiki/Superman), able to defy the harshest conditions on Earth and beyond.
 

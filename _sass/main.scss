@@ -144,60 +144,60 @@ h6, .h6 {
 // ---------- Blog Posts ----------
 
 .post-header {
-	position: relative;
+	display: flex;
 	width: 100%;
+	flex-direction: column;
 	height: 15rem;
-	text-align: center;
-	background-color: #ffffff;
 	margin-bottom: 2rem;
+	width: 100%;
+	background-color: #ffffff;
 	&.has-cover {
 		background-size: cover;
 		background-repeat: no-repeat;
 	}
-	.scrim {
-		width: 100%;
-		padding: 0em 0em;
-		&.has-cover {
-			background-color: rgba(0,0,0,0.2);
-		}
-	}
 }
 
-.cover {
-	position: relative;
+.post-title {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: 1rem;
+	padding-right: 1rem;
+	padding-left: 1rem;
 }
 
 .post-title,
 .meta-section {
-	position: absolute;
-	left: 0; 
-	right: 0;
-	margin-left: auto;
-	margin-right: auto;
+	display: flex;
+	flex-direction: row;
 }
 
 .post-title{
-	max-width: 90%;
-	bottom: 2rem;
 	font-family: $ff-heading;
 	font-size: $fs-post-title;
 	font-weight: $fw-post-title;
 }
 
-.meta-section {
-	width: 100%;
-	bottom: 0rem;
-	margin-top: 1rem;
-	margin-bottom: 0rem;
+.post-meta {
+	flex-grow: 1;
 }
 
-.meta-side {
+.post-meta.left {
 	width: 25%;
+	text-align: left;
+	margin-left: 1rem;
 }
 
-.meta-center {
+.post-meta.middle {
 	width: 50%;
 	text-align: center;
+}
+
+.post-meta.right {
+	width: 25%;
+	text-align: right;
+	margin-right: 1rem;
 }
 
 .source {
@@ -263,7 +263,7 @@ img,
 	font-size: $fs-caption;
 }
 
-.post-meta {
+.post-list .post-meta {
 	color: $fc-fade;
 }
 
