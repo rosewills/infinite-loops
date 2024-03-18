@@ -31,6 +31,7 @@ $bg-notice: #f8f1c1;
 $fc-body: #000000;
 $fc-link: #212529;
 $fc-fade: rgb(172, 172, 172);
+$fc-source: rgb(117, 117, 117);
 
 $fc-post-title: #000000;
 
@@ -39,6 +40,11 @@ $border-main: rgb(222, 226, 230);
 $gutter-x: 3rem;
 $gutter-y: 3rem;
 
+
+// ---------- Link Reset ----------
+a, a:link, a:visited, a:focus, a:hover, a:active{
+	color: $fc-body;
+}
 
 // ---------- Body Text ----------
 
@@ -195,9 +201,17 @@ h6, .h6 {
 }
 
 .source {
+	display: block;
+	text-align: center;
+	padding-bottom: 1rem;
+}
+
+.source,
+.source a {
 	font-size: $fs-caption;
 	font-style: italic;
 	font-weight: bold;
+	color: $fc-source;
 }
 
 // Images & Captions
