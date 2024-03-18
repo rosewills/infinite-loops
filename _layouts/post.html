@@ -7,6 +7,7 @@ layout: default
 		<!-- <img class="cover" src="{{ site.baseurl }}/assets/images/posts/{{ page.cover }}" alt="{{ page.cover-alt }}"/> -->
 		<div class="post-header {% if page.cover %}has-cover{% endif %}" {% if page.cover %}style="background-image: linear-gradient(to bottom, transparent, #ffffff), url({{ site.baseurl }}/assets/images/posts/{{ page.cover }});"{% endif %}>
 			<div class="post-title">{{ page.title }}</div> <!-- fw-bold border-bottom pb-3 mb-5 -->
+			{% if page.subtitle %}<div class="post-title sub">{{ page.subtitle }}</div>{% endif %}
 			<div class="meta-section">
 				<div class="post-meta left">
 					by <strong>{{ page.author }}</strong>

@@ -16,7 +16,7 @@
 					{% endif %}
 				</td>
 				<td class="post-info-col">
-					<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+					<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}{% if post.subtitle %}: {{post.subtitle}}{% endif %}</a>
 					<div class="post-excerpt">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | truncatewords: 25 }}{% endif %}</div>
 					<div class="post-meta post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
 				</td>
