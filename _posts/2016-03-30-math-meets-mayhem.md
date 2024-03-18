@@ -7,11 +7,11 @@ date: 2016-03-30
 author: Rosemary Wills
 categories: science-writing
 tags:
-  - math
-  - fractals
+- math
+- fractals
 cover: fractal-plant.jpg
 preview: fractal-plant.jpg
-cover-alt: 
+cover-alt:
 published: true
 source: Athens Science Observer
 source-url: https://athensscienceobserver.com/2016/03/30/math-meets-mayhem-how-fractals-shape-the-universe/
@@ -93,4 +93,3 @@ The ability of fractals to create (and thus describe) irregular shapes is partic
 
 For centuries, humans have struggled to reconcile chaos with order, the rough with the smooth. Fractals reveal that these dual worlds are intimately intertwined in ways we are just beginning to uncover. Whether misunderstood as monsters, embraced as art, or relied upon as a scientific tool, fractals are deeply embedded in our very existence- fractured, messy, and perfectly so.
 
-_"My life seems to be a series of events and accidents. Yet when I look back, I see a pattern." -Benoit Mandelbrot_

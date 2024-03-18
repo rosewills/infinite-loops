@@ -40,4 +40,3 @@ Through a collection method that involved sticking petri dishes out the window o
 
 In the face of certain death, *P. syringae* have evolved a solution that would make Elsa herself jealous. Researchers believe their special proteins can nucleate their own personal snowflake from the moisture in the cloud, which carries them gently back to earth. Ice crystals serve as both escape pod and dispersion method - in other words, *P. syringae* have harnessed snowfall as transportation. Beat that, Ice Queen.
 
-If you're dreaming of a white Christmas, don't look for a mythical being or a Disney princess. Ask Santa for a microscope.
