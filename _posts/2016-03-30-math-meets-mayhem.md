@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Math Meets Mayhem
-subtitle: (How Fractals Shape the Universe)
+subtitle: How Fractals Shape the Universe
 description: The fun goes on and on...
 date: 2016-03-30
 author: Rosemary Wills

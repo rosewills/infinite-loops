@@ -1,8 +1,8 @@
 ---
 layout: post
-title:
+title: The Language of Music
 subtitle:
-description:
+description: Exploring how music helps us communicate and express ourselves.
 date: 2018-05-10
 author: Rosemary Wills
 categories: science-writing

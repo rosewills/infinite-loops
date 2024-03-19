@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Merry Christmyths #1"
-subtitle: Does the tryptophan in turkey make you sleepy?
+subtitle: Does the Tryptophan in Turkey Make You Sleepy?
 description: From the "12 Days of ASO Christmas" mini-series (day two)
 date: 2017-12-15
 author: Rosemary Wills

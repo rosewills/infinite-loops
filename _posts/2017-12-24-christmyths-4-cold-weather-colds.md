@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Merry Christmyths #4"
-subtitle: Does cold weather really lead to colds?
+subtitle: Does Cold Weather Really Lead to Colds?
 description: From the "12 Days of ASO Christmas" mini-series (day eleven)
 date: 2017-12-24
 author: Rosemary Wills
