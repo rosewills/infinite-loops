@@ -21,11 +21,7 @@ Everyone loves a good superhero, and while the mythical abilities of our favorit
 
 [![tiny-batman.jpg]({% link /assets/images/posts/tiny-batman.jpg %})](/assets/images/posts/tiny-batman.jpg)
 <span class="credit">
-Image credit:
-<a href="https://unsplash.com/@_alikokab_?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ali Kokab</a>
-via
-<a href="https://unsplash.com/photos/silhouette-of-bird-on-top-of-brown-wooden-shelf-Yv2HzOr8jAA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-(<a href="https://unsplash.com/license">License</a>)
+Image credit:<a href="https://unsplash.com/@_alikokab_?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ali Kokab</a> via <a href="https://unsplash.com/photos/silhouette-of-bird-on-top-of-brown-wooden-shelf-Yv2HzOr8jAA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> (<a href="https://unsplash.com/license">License</a>)
 </span>
 
 

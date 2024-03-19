@@ -1,4 +1,4 @@
 ---
-layout: writing
+layout: blog
 title: "Writing"
 ---
