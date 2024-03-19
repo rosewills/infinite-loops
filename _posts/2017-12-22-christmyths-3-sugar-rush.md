@@ -27,19 +27,7 @@ The sugar-hyperactivity connection is not supported by science.
 
 
 [![xmas-cookies.jpg]({% link /assets/images/posts/xmas-cookies.jpg %})](/assets/images/posts/xmas-cookies.jpg)
-<span class="caption">
-</span>
-<span class="credit">
-Image credit: 
-<a href="https://www.flickr.com/photos/joshpuetz/">
-Josh Puetz
-</a>
- via 
-<a href="https://www.flickr.com/photos/joshpuetz/11499351776/">
-Flickr
-</a>
-(<a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>)
-</span>
+<span class="credit">Image credit: <a href="https://www.flickr.com/photos/joshpuetz/">Josh Puetz</a> via <a href="https://www.flickr.com/photos/joshpuetz/11499351776/">Flickr</a> (<a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>)</span>
 
 
 Let's settle this one once and for all: [despite](http://agris.fao.org/agris-search/search.do?recordID=US8524070) [thorough](http://www.sciencedirect.com/science/article/pii/0272735886900346) [investigation](https://www.ncbi.nlm.nih.gov/pubmed/8747098) [by](https://jamanetwork.com/journals/jama/article-abstract/391812) [numerous](https://www.ncbi.nlm.nih.gov/pubmed/353681) [studies](https://jamanetwork.com/journals/jama/article-abstract/391812), none have turned up conclusive evidence for the "sugar rush."

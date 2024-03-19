@@ -20,19 +20,7 @@ Step aside, [Bing Crosby](https://en.wikipedia.org/wiki/Merry_Christmas_(Bing_C
 
 
 [![computer-ornament.jpg]({% link /assets/images/posts/computer-ornament.jpg %})](/assets/images/posts/computer-ornament.jpg)
-<span class="caption">
-</span>
-<span class="credit">
-Image credit: 
-<a href="https://www.flickr.com/photos/mrlerone/">
-Toby Bradbury
-</a>
- via 
-<a href="https://www.flickr.com/photos/mrlerone/5281806314/">
-Flickr
-</a>
-(<a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>)
-</span>
+<span class="credit">Image credit: <a href="https://www.flickr.com/photos/mrlerone/">Toby Bradbury</a> via <a href="https://www.flickr.com/photos/mrlerone/5281806314/">Flickr</a>(<a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>)</span>
 
 
 The result (available for listening [here](https://vimeo.com/192711856)) is… frankly, a little weird. But you can't deny it's festive. Elfin voice? Check. Mention of a Christmas tree? Check. Themes of joy and hope? Possibly- it depends on how much poetic license you're willing to give the lyrics. "The best Christmas present in the world is a blessing" seems to be on the right track, at least.

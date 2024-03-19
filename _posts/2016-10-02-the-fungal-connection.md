@@ -25,16 +25,8 @@ The logical way to obtain those vital carbs, at least to most other [heterotrop
 
 
 [![fly-agaric.jpg]({% link /assets/images/posts/fly-agaric.jpg %})](/assets/images/posts/fly-agaric.jpg)
-<span class="caption">
-The mold that spoiled your tomato sandwich might be the same one that grew it.
-</span>
-<span class="credit">
-Image credit: 
-<a href="https://www.flickr.com/photos/nickpix2008/">Nick Ford</a>
- via 
-<a href="https://www.flickr.com/photos/nickpix2008/6303184406/">Flickr</a>
-(<a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>)
-</span>
+<span class="caption">The mold that spoiled your tomato sandwich might be the same one that grew it.</span>
+<span class="credit">Image credit: <a href="https://www.flickr.com/photos/nickpix2008/">Nick Ford</a> via <a href="https://www.flickr.com/photos/nickpix2008/6303184406/">Flickr</a> (<a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>)</span>
 
 
 Purposely inviting a fungal infection might sound a bit questionable, but in this case it is a golden opportunity for any plant. The nutrients that fungi sift so deftly from the soil are vital components to leaves, branches, and trunks. In other words, while our moms urge us to eat our veggies, veggie moms urge their kids to eat their minerals.
@@ -44,20 +36,8 @@ The problem is, plants can only take up these minerals in through cells at the v
 In this way, nature's [symbiotic](https://www.athensscienceobserver.com/2015/08/04/best-friends-for-life-the-remarkable-and-delicate-world-of-symbiosis/) dream team thrives. Of all known plants on earth, as many as [90% rely on mycorrhizal aid](http://sciweb.nybg.org/science2/hcol/mycorrhizae.asp.html), receiving up to [80% of their nitrogen and 75% of their phosphorous](http://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2007.01139.x/abstract) from their microscopic sidekicks. Most plants are equally generous, [paying out more than a fifth](http://www.the-compost-gardener.com/plant-fungi.html) of their own sugar production.
 
 [![mycelium.jpg]({% link /assets/images/posts/mycelium.jpg %})](/assets/images/posts/mycelium.jpg)
-<span class="caption">
-This friendship is as old as dirt – in fact, fungi may have allowed plats to colonize it.
-</span>
-<span class="credit">
-Image credit: 
-<a href="https://www.flickr.com/photos/bushman_k/">
-Kirill Ignatyev
-</a>
- via 
-<a href="https://www.flickr.com/photos/bushman_k/6177594429/">
-Flickr
-</a>
-(<a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY 2.0</a>)
-</span>
+<span class="caption">This friendship is as old as dirt – in fact, fungi may have allowed plats to colonize it.</span>
+<span class="credit">Image credit: <a href="https://www.flickr.com/photos/bushman_k/">Kirill Ignatyev</a> via <a href="https://www.flickr.com/photos/bushman_k/6177594429/">Flickr</a> (<a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY 2.0</a>)</span>
 
 
 With such a close relationship, it's not surprising that fungi and plants go way back. [Signs of mycorrhizae surrounding the roots of fossilized plants](http://adsabs.harvard.edu/abs/1993Natur.363...67S) support the possibility that fungi were instrumental to plant colonization on land 450 million years ago.
@@ -68,15 +48,8 @@ Imagine a neighborhood knit of strands, as thin as spider’s silk, weaving root
 
 
 [![mychorrhizal-network.gif]({% link /assets/images/posts/mychorrhizal-network.gif %})](/assets/images/posts/mychorrhizal-network.gif)
-<span class="caption">
-_Rhizopogon_ mychorrhizal network connecting Douglas Fir trees.
-</span>
-<span class="credit">
-Image credit: 
-<a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2009.03069.x/full#f1">
-Figure 1, Beiler, et al. 2001
-</a>
-</span>
+<span class="caption">_Rhizopogon_ mychorrhizal network connecting Douglas Fir trees.</span>
+<span class="credit">Image credit: <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2009.03069.x/full#f1">Figure 1, Beiler, et al. 2001</a></span>
 
 
 Here, trees suffering from bacterial or insect intruders [call up their friends](http://aobpla.oxfordjournals.org/content/7/plv050.full), warning them to lock their doors. Extra defense chemicals are sent along for the purpose. Carbon casseroles are exchanged in times of need. [Mother trees even recognize](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0045648) and send care packages to their seedling children (a true family tree).

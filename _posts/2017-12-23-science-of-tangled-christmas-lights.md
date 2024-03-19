@@ -25,15 +25,7 @@ Seeking to unravel the mystery of self-tangling headphones, charger cables, and 
 
 
 [![xmas-lights.jpg]({% link /assets/images/posts/xmas-lights.jpg %})](/assets/images/posts/xmas-lights.jpg)
-<span class="caption">
-</span>
-<span class="credit">
-Image credit: 
-<a href="https://unsplash.com/@thalia_s_ruiz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Thalia Ruiz</a>
- via 
-<a href="https://unsplash.com/photos/turned-on-string-lights-lHu6SF2Uar0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-(<a href="https://unsplash.com/license">License</a>)
-</span>
+<span class="credit">Image credit: <a href="https://unsplash.com/@thalia_s_ruiz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Thalia Ruiz</a> via <a href="https://unsplash.com/photos/turned-on-string-lights-lHu6SF2Uar0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> (<a href="https://unsplash.com/license">License</a>)</span>
   
 
 To create a knot, a string must simply form a loop (or coil) and have one end slip into it. If you take a string yourself and bounce it around in your hand, you'll see that loops form easily; having an end slip into one of these loops at some point is almost guaranteed. The problem is, it's much easier to accidentally form a knot than undo one; this allows knots to accumulate.

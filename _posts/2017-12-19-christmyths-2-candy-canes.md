@@ -27,19 +27,7 @@ Your grade school teachers were right all along.
 
 
 [![candy-canes.jpg]({% link /assets/images/posts/candy-canes.jpg %})](/assets/images/posts/candy-canes.jpg)
-<span class="caption">
-</span>
-<span class="credit">
-Image credit: 
-<a href="https://www.flickr.com/photos/calliope/">
-Liz West
-</a>
- via 
-<a href="https://www.flickr.com/photos/calliope/301480930/">
-Flickr
-</a>
-(<a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>)
-</span>
+<span class="credit">Image credit: <a href="https://www.flickr.com/photos/calliope/">Liz West</a> via <a href="https://www.flickr.com/photos/calliope/301480930/">Flickr</a> (<a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>)</span>
 
 
 To me, the sharp scent of peppermint calls to mind glowing Christmas trees, carols on the radio, warm mugs of hot cocoa… and standardized testing. Teachers often gave us peppermints before important exams, claiming the smell would help improve our performance.

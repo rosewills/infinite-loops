@@ -23,19 +23,7 @@ Gift-giving isn't just a human phenomenon. Our feathered friends are some of the
 
 
 [![bird-gift.jpg]({% link /assets/images/posts/bird-gift.jpg %})](/assets/images/posts/bird-gift.jpg)
-<span class="caption">
-</span>
-<span class="credit">
-Image credit: 
-<a href="https://www.flickr.com/photos/ferranp/">
-Ferran Pestaña
-</a>
- via 
-<a href="https://www.flickr.com/photos/ferranp/2979089909/">
-Flickr
-</a>
-(<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>)
-</span>
+<span class="credit">Image credit: <a href="https://www.flickr.com/photos/ferranp/">Ferran Pestaña</a> via <a href="https://www.flickr.com/photos/ferranp/2979089909/">Flickr</a> (<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>)</span>
 
 
 

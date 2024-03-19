@@ -22,13 +22,13 @@ The sudden ubiquity of pumpkin spice flavoring makes it official: Fall is upon u
 If you're short on ideas, here's a little inspiration:
 
 [![hyperbolic-coral-ted.jpg]({% link /assets/images/posts/hyperbolic-coral-ted.jpg %})](/assets/images/posts/hyperbolic-coral-ted.jpg)
-<span class="credit">Image credit: <a href="https://www.flickr.com/photos/frted/">Ted</a> via <a href="https://www.flickr.com/photos/frted/5115937870/">Flickr</a>(<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>)</span>
+<span class="credit">Image credit: <a href="https://www.flickr.com/photos/frted/">Ted</a> via <a href="https://www.flickr.com/photos/frted/5115937870/">Flickr</a> (<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>)</span>
 
 [![crochet-coral2.jpg]({% link /assets/images/posts/crochet-coral2.jpg %})](/assets/images/posts/crochet-coral2.jpg)
-<span class="credit">Image credit: <a href="https://www.flickr.com/photos/rankinb/">Brendan Rankin</a> via <a href="https://www.flickr.com/photos/rankinb/4451434550/">Flickr</a>(<a href="https://creativecommons.org/licenses/by-nd/2.0/">CC BY-ND 2.0</a>)</span>
+<span class="credit">Image credit: <a href="https://www.flickr.com/photos/rankinb/">Brendan Rankin</a> via <a href="https://www.flickr.com/photos/rankinb/4451434550/">Flickr</a> (<a href="https://creativecommons.org/licenses/by-nd/2.0/">CC BY-ND 2.0</a>)</span>
 
 [![crochet-coral.jpg]({% link /assets/images/posts/crochet-coral.jpg %})](/assets/images/posts/crochet-coral.jpg)
-<span class="credit">Image credit: <a href="https://www.flickr.com/photos/remembertobreathe/">Patricia Barden</a> via <a href="https://www.flickr.com/photos/remembertobreathe/5980073642/">Flickr</a>(<a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>)
+<span class="credit">Image credit: <a href="https://www.flickr.com/photos/remembertobreathe/">Patricia Barden</a> via <a href="https://www.flickr.com/photos/remembertobreathe/5980073642/">Flickr</a> (<a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>)
 </span>
 
 
@@ -42,20 +42,8 @@ Behold, the [Crochet Coral Reef](http://crochetcoralreef.org/): a collaborative
 You've probably noticed the world isn't (completely) flat. Anyone who has hung a picture or kicked a ball around is familiar with both Euclidian (flat) and spherical (curvy) space. Hyperbolic space, on the other hand, is the sphere's lesser-known fraternal twin. It is curved, like a sphere, but in the opposite direction: an inside-out sphere.
 
 [![geometry.png]({% link /assets/images/posts/geometry.png %})](/assets/images/posts/geometry.png)
-<span class="caption">
-Euclidian, spherical, and hyperbolic space.
-</span>
-<span class="credit">
-Image credit: 
-<a href="https://commons.wikimedia.org/wiki/User:Cmdrjameson">
-Cmdrjameson
-</a>
- via 
-<a href="https://commons.wikimedia.org/w/index.php?curid=100766">
-Wikimedia Commons
-</a>
-(<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">CC BY-SA 2.0</a>)
-</span>
+<span class="caption">Euclidian, spherical, and hyperbolic space.</span>
+<span class="credit">Image credit: <a href="https://commons.wikimedia.org/wiki/User:Cmdrjameson">Cmdrjameson</a> via <a href="https://commons.wikimedia.org/w/index.php?curid=100766">Wikimedia Commons</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">CC BY-SA 2.0</a>)</span>
 
 
 If trying to imagine an inside-out sphere makes your head hurt, you're not alone. While hyperbolic curves make sense mathematically, for many years they were nearly impossible to picture because no one had any idea how to make them. In other words, without a real-world analog like a ball or sphere, working with this strange shape was like trying to teach a music class without instruments. The concept was so abstract that a few early mathematicians thought the shape couldn't possibly exist in the real world (after all, Bigfoot's pretty hard to visualize as well).
@@ -68,7 +56,7 @@ If trying to imagine an inside-out sphere makes your head hurt, you're not alone
 Finally, in 1997, mathematician [Dr. Daina Taimina](http://www.math.cornell.edu/~dtaimina/) made a breakthrough. She went home, [found a ball of yarn](https://www.youtube.com/watch?v=D-AHvZqbMT4), and crocheted the world's first woolen mathematical model:
 
 [![hyperbolic-crochet.jpg]({% link /assets/images/posts/hyperbolic-crochet.jpg %})](/assets/images/posts/hyperbolic-crochet.jpg)
-<span class="credit">Image credit: <a href="https://www.flickr.com/photos/noricum/">noricum</a> via <a href="https://www.flickr.com/photos/noricum/519995487/">Flickr</a>(<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>)
+<span class="credit">Image credit: <a href="https://www.flickr.com/photos/noricum/">noricum</a> via <a href="https://www.flickr.com/photos/noricum/519995487/">Flickr</a> (<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>)
 </span>
 
 
@@ -81,11 +69,11 @@ Overnight, a mind-bending abstraction became as tangible as a comfy sweater. Onc
 
 [![seaslug1.jpg]({% link /assets/images/posts/seaslug1.jpg %})](/assets/images/posts/seaslug1.jpg)
 <span class="caption">*Glossodoris atriomarginata*</span>
-<span class="credit">Image credit: <a href="https://www.flickr.com/people/chikawatanabe/">Chika Watanabe</a> via <a href="https://en.m.wikipedia.org/wiki/File:Glossodoris_atromarginata.jpg">Wikimedia Commons</a>(<a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>)</span>
+<span class="credit">Image credit: <a href="https://www.flickr.com/people/chikawatanabe/">Chika Watanabe</a> via <a href="https://en.m.wikipedia.org/wiki/File:Glossodoris_atromarginata.jpg">Wikimedia Commons</a> (<a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>)</span>
 
 [![seaslug1.jpg]({% link /assets/images/posts/seaslug1.jpg %})](/assets/images/posts/seaslug1.jpg)
 <span class="caption">Lettuce Sea Slug</span>
-<span class="credit">Image credit: <a href="https://www.flickr.com/people/40467171@N00">Laszlo Ilyes</a> via <a href="https://commons.wikimedia.org/wiki/File:Lettuce_Sea_Slug_11-03-2006.jpg">Wikimedia Commons</a>(<a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>)</span>
+<span class="credit">Image credit: <a href="https://www.flickr.com/people/40467171@N00">Laszlo Ilyes</a> via <a href="https://commons.wikimedia.org/wiki/File:Lettuce_Sea_Slug_11-03-2006.jpg">Wikimedia Commons</a> (<a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>)</span>
 
 
 With their convoluted curls and colorful, crenulated forms, live reef animals are hyperbolic artists. But while Mother Nature turns out these frills with ease, crochet remains the only easy way for us humans to generate hyperbolic shapes from scratch*- simply throw in an extra stitch every few loops as you work each row. Even better, the result is soft and durable, tolerating hours of manipulation by college students and kindergarteners alike. It's even machine-washable.

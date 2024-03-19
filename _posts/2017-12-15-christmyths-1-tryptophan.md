@@ -27,19 +27,7 @@ Turkey isn't any more sleep-inducing than cheddar cheese or a handful of almonds
 
 
 [![turkey.jpg]({% link /assets/images/posts/turkey.jpg %})](/assets/images/posts/turkey.jpg)
-<span class="caption">
-</span>
-<span class="credit">
-Image credit: 
-<a href="https://www.flickr.com/photos/thebokeeffect/">
-Andrea Goh
-</a>
- via 
-<a href="https://www.flickr.com/photos/thebokeeffect/7308581026/">
-Flickr
-</a>
-(<a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>)
-</span>
+<span class="credit">Image credit: <a href="https://www.flickr.com/photos/thebokeeffect/">Andrea Goh</a> via <a href="https://www.flickr.com/photos/thebokeeffect/7308581026/">Flickr</a> (<a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>)</span>
 
 
 Tryptophan is an amino acid, one of the chemical building blocks that compose every protein in your body. Since it plays an important part in [melatonin](https://nccih.nih.gov/health/melatonin) production- a neurotransmitter well-known for its role in sleep regulation- [tryptophan is often marketed as a sleep aid](https://sleep.org/articles/what-is-tryptophan/). This may have inspired the turkey-tryptophan-sleep connection.

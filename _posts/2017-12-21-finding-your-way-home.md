@@ -21,19 +21,7 @@ They say there's [no place like home for the holidays](https://en.wikipedia.org
 
 
 [![snow-road.jpg]({% link /assets/images/posts/snow-road.jpg %})](/assets/images/posts/snow-road.jpg)
-<span class="caption">
-</span>
-<span class="credit">
-Image credit: 
-<a href="https://www.flickr.com/photos/moomoo/">
-Marilyn M.
-</a>
- via 
-<a href="https://www.flickr.com/photos/moomoo/3151338464/">
-Flickr
-</a>
-(<a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>)
-</span>
+<span class="credit">Image credit: <a href="https://www.flickr.com/photos/moomoo/">Marilyn M.</a> via <a href="https://www.flickr.com/photos/moomoo/3151338464/">Flickr</a> (<a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>)</span>
 
 
 Magnetoreception, the ability to detect magnetic fields, is one of the most mysterious biological superpowers. It's often described as a kind of built-in compass, but many animals show such delicate sensitivity to fluctuations in Earth's magnetic field that they're able to treat it more like a map, directing them to a [specific mountain or island](https://www.youtube.com/watch?v=tdXb_4EkYtU) year after year.

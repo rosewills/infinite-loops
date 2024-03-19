@@ -21,21 +21,8 @@ ready: true
 
 
 [![wood-frog.jpg]({% link /assets/images/posts/wood-frog.jpg %})](/assets/images/posts/wood-frog.jpg)
-<span class="caption">
-</span>
-<span class="credit">
-Image credit: 
-<a href="https://www.flickr.com/photos/briangratwicke/">
-Brian Gratwicke
-</a>
- via 
-<a href="https://www.flickr.com/photos/briangratwicke/13491404025/">
-Flickr
-</a>
-(<a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>)
-</span>
+<span class="credit">Image credit: <a href="https://www.flickr.com/photos/briangratwicke/">Brian Gratwicke</a> via <a href="https://www.flickr.com/photos/briangratwicke/13491404025/">Flickr</a> (<a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>)</span>
 
-Image credit:  via [Flickr.](https://flic.kr/p/mybYoe)
 
 Wood frogs have a special adaptation that allows them to load their cells with glucose. This lowers the freezing point of their tissues, acting a bit like antifreeze. In sub-zero temperatures, they are thus able to survive the winter suspended Hans-Solo-style in solid ice. Come spring, they simply thaw out and hop away.
 

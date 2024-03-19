@@ -27,19 +27,7 @@ While frosty air itself won't give you the sniffles, you should still bundle up.
 
 
 [![xmas-cold.jpg]({% link /assets/images/posts/xmas-cold.jpg %})](/assets/images/posts/xmas-cold.jpg)
-<span class="caption">
-</span>
-<span class="credit">
-Image credit: 
-<a href="https://www.flickr.com/photos/highwaygirl67/">
-Barb
-</a>
- via 
-<a href="https://www.flickr.com/photos/highwaygirl67/4263293650/">
-Flickr
-</a>
-(<a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>)
-</span>
+<span class="credit">Image credit: <a href="https://www.flickr.com/photos/highwaygirl67/">Barb</a> via <a href="https://www.flickr.com/photos/highwaygirl67/4263293650/">Flickr</a> (<a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>)</span>
 
 
 It's called flu season for a reason- the holidays are a prime time to get sick. But why? The discovery of viruses as the true culprit behind your runny nose disproved the generations-old belief that "catching cold" involved exposure to icy winds alone. Instead, the uptick in cold and flu cases during the winter probably has more to do with the increased tendency for people to find themselves huddled in close quarters, cooped up inside to escape the chill or crammed into planes and trains returning home for the holidays.

@@ -21,9 +21,7 @@ ready: true
 Everyone loves a good superhero, and while the mythical abilities of our favorite crime-fighting defenders have captured imaginations for decades, our own humble planet has produced organisms that make the fictional feats of [Iron Man](http://marvel.wikia.com/wiki/Iron_Man) or [Captain America](http://marvel.wikia.com/wiki/Captain_America_(Steven_Rogers)) pale in comparison. In fact, one of the most impressive real-life superheros can be found right under our noses - or, more accurately, under our feet.
 
 [![tiny-batman.jpg]({% link /assets/images/posts/tiny-batman.jpg %})](/assets/images/posts/tiny-batman.jpg)
-<span class="credit">
-Image credit:<a href="https://unsplash.com/@_alikokab_?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ali Kokab</a> via <a href="https://unsplash.com/photos/silhouette-of-bird-on-top-of-brown-wooden-shelf-Yv2HzOr8jAA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> (<a href="https://unsplash.com/license">License</a>)
-</span>
+<span class="credit">Image credit: <a href="https://unsplash.com/@_alikokab_?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ali Kokab</a> via <a href="https://unsplash.com/photos/silhouette-of-bird-on-top-of-brown-wooden-shelf-Yv2HzOr8jAA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> (<a href="https://unsplash.com/license">License</a>)</span>
 
 
 
@@ -40,16 +38,8 @@ However, _D. radiodurans_ stands out even among its peers - its near-invincibi
 According to [Michael Daly](https://www.usuhs.edu/pat/deinococcus/pdf/Brim_2000.pdf) of the Uniformed Services University of Health Sciences, its secret lies in its unique self-healing abilities. While just a few thousand rad of radiation can turn even the most well-protected DNA into genetic swiss cheese, the bacterium utilizes a special protein called [RecA](http://jb.asm.org/content/176/12/3508.full.pdf) that allows shattered DNA strands to be [pieced back together](http://www.pnas.org/content/99/12/7917.long) quickly and efficiently. Additionally, it carries several complete copies of its genome, like computer backups, and compacts them into donut-shaped formations called [toroids](http://www.sciencemag.org/content/299/5604/254). Scientists think this allows the copies to be compared [side-by-side](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC515169/) for easier repair.
 
 [![grand-prismatic-spring.jpg]({% link /assets/images/posts/grand-prismatic-spring.jpg %})](/assets/images/posts/grand-prismatic-spring.jpg)
-<span class="caption">
-The Grand Prismatic Spring in Yellowstone National Park, home to many colorful extremophiles.
-</span>
-<span class="credit">
-Image credit:
-<a href="https://unsplash.com/@lknickla?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Laminda Nickla</a>
-via
-<a href="https://unsplash.com/photos/green-trees-near-lake-under-cloudy-sky-during-daytime-JKTkNHZiJ8Y?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-(<a href="https://unsplash.com/license">License</a>)
-</span>
+<span class="caption">The Grand Prismatic Spring in Yellowstone National Park, home to many colorful extremophiles.</span>
+<span class="credit">Image credit: <a href="https://unsplash.com/@lknickla?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Laminda Nickla</a> via <a href="https://unsplash.com/photos/green-trees-near-lake-under-cloudy-sky-during-daytime-JKTkNHZiJ8Y?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> (<a href="https://unsplash.com/license">License</a>)</span>
 
 _D. radiodurans'_ sturdiness isn't only impressive to biologists. In 2003, [a team of information technologists](http://delivery.acm.org/10.1145/610000/602426/p95-wong.pdf?ip=198.137.20.109&id=602426&acc=ACTIVE%20SERVICE&key=AA86BE8B6928DDC7%2EB68F0B462DD42179%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=720503225&CFTOKEN=65899208&__acm__=1444500475_6c13b58545298efc248597b41a8e7813) encoded the lyrics to the Disney song “It’s a Small World” into strings of DNA and inserted them into _D. radiodurans’_ genome. 100 generations later, the song was recovered without an error, proving that information written in the margins of bacterial DNA can be retrieved accurately. Researcher [Pak Chung Wong](http://www.pnl.gov/wong/) of the Pacific Northwest National Laboratory believes that, with further study, _D. radiodurans_ might provide an [inexpensive and reliable means of storing data](https://www.newscientist.com/article/dn3243-data-stored-in-multiplying-bacteria/) in the event of a nuclear apocalypse.
 

@@ -24,13 +24,7 @@ Because their colors clash, of course. And seven can be a bit of a jerk.
 We tend to trust our own perceptions, and assume others share the same reality we experience. But for about [1 in 23 people](http://sro.sussex.ac.uk/14073/1/p5469.pdf), such things as friendly or specifically-colored numbers are just another aspect of reality.
 
 [![skittles.jpg]({% link /assets/images/posts/skittles.jpg %})](/assets/images/posts/skittles.jpg)
-<span class="credit">
-Image credit:
-<a href="https://www.flickr.com/photos/mel7ares/">Maryam Abdulghaffar</a>
-via
-<a href="https://www.flickr.com/photos/mel7ares/5195270697/">Flickr</a>
-(<a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>)
-</span>
+<span class="credit">Image credit: <a href="https://www.flickr.com/photos/mel7ares/">Maryam Abdulghaffar</a> via <a href="https://www.flickr.com/photos/mel7ares/5195270697/">Flickr</a> (<a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>)</span>
 
 In fact, it could take years for them to realize their friends don’t know the texture of their name, or that, for the rest of the world, "tasting the rainbow" requires [Skittles](http://skittles.com/).
 
@@ -42,13 +36,7 @@ Synesthesia comes in many forms. The association of numbers or letters with colo
 
 
 [![grapheme-color.png]({% link /assets/images/posts/grapheme-color.png %})](/assets/images/posts/grapheme-color.png)
-<span class="credit">
-Image credit:
-<a href="https://www.flickr.com/photos/twitchcraft/">Kelley</a>
-via
-<a href="https://www.flickr.com/photos/mel7ares/5195270697/">Flickr</a>
-(<a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>)
-</span>
+<span class="credit">Image credit: <a href="https://www.flickr.com/photos/twitchcraft/">Kelley</a> via <a href="https://www.flickr.com/photos/mel7ares/5195270697/">Flickr</a></span>
 
 
 While tasting bananas every time you hear a B-sharp might seem distracting, most synesthetes are fond of their vibrant worlds and even rely upon their consistency to [remember names, do calculations, or create art](https://www.worldcat.org/title/hidden-sense-synesthesia-in-art-and-science/oclc/80179991). Indeed, many of the world’s most gifted artists, musicians, and scientists are synesthetes. Franz Liszt would often request his orchestra to play "a little bluer" or "not so rose." Physicist Richard Feynman described color-tinged equations dancing in the air. [Geoffrey Rush, Marilyn Monroe, and Eddie Van Halen](https://en.wikipedia.org/wiki/List_of_people_with_synesthesia) are just a few of many synesthetes who, through their art or innovation, share their gift with the world.
@@ -57,13 +45,7 @@ In fact, a little shuffling of the senses may not be as unusual as previously th
 
 
 [![bouba-kiki.png]({% link /assets/images/posts/bouba-kiki.png %})](/assets/images/posts/bouba-kiki.png)
-<span class="caption">
-</span>
-<span class="credit">
-Image credit: Andrew Dunn via
-<a href="https://en.wikipedia.org/wiki/File:Booba-Kiki.svg">Wikimedia Commons</a>
-(<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">CC BY-SA 3.0</a>)
-</span>
+<span class="credit">Image credit: Andrew Dunn via <a href="https://en.wikipedia.org/wiki/File:Booba-Kiki.svg">Wikimedia Commons</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">CC BY-SA 3.0</a>)</span>
 
 
 When presented with this question by psychologist Wolfgang Kohler, 95-98% of people from a variety of cultures and languages- [including toddlers who hadn’t yet begun to read](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-7687.2006.00495.x/abstract;jsessionid=DB609BFD462501CCC503C55DFB27A342.f01t03)– assigned "kiki" to the pointy, star-like shape on the left, and "bouba" to the rounded blob on the right. Without any further information, certain visual traits- namely sharp points and curves- appear to inherently evoke the same "sharp" or "rounded" sounds to nearly everyone tested, regardless of whether they also see music or smell color.

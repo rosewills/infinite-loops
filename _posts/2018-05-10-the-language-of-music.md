@@ -24,20 +24,7 @@ Yet despite our collective obsession with music, the phenomenon remains as myste
 Yet those who devote their life to the creation and study of music know our melodies run deeper than mere misplaced instincts. An ever-growing body of scientific research is echoing what they've understood all along- and making the idea of music as non-caloric, neurological dessert harder and harder to swallow.
 
 [![guitar.jpg]({% link /assets/images/posts/guitar.jpg %})](/assets/images/posts/guitar.jpg)
-<span class="caption">
-Playing the guitar.
-</span>
-<span class="credit">
-Image credit: 
-<a href="https://www.flickr.com/photos/i-rocksteady/">
-Risa Ikeda
-</a>
- via 
-<a href="https://www.flickr.com/photos/i-rocksteady/5106991146/">
-Flickr
-</a>
-(<a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>)
-</span>
+<span class="caption">Playing the guitar.</span><span class="credit">Image credit: <a href="https://www.flickr.com/photos/i-rocksteady/">Risa Ikeda</a> via <a href="https://www.flickr.com/photos/i-rocksteady/5106991146/">Flickr</a> (<a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>)</span>
 
 
 One of the most celebrated aspects of music, for example, is its ability to communicate emotion, acting almost as a language of feelings rather than words. Psychologists have found music to facilitate everything from the development of [empathy in young children](http://journals.sagepub.com/doi/abs/10.1177/0305735612440609) to feelings of [social cohesion](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4021113/) and [altruism](https://www.frontiersin.org/articles/10.3389/fpsyg.2014.01215/full#B47) [between strangers](https://link.springer.com/article/10.1007/s12144-014-9273-y). [One study](http://journals.sagepub.com/doi/abs/10.1177/0305735611430433) highlighted music's role as an "[empathetic friend,](https://www.music.ox.ac.uk/assets/Cultural-Value-Music-Empathy-Final-Report.pdf)" noting a tendency to reach for songs that echo our feelings in times of grief or heartache.
@@ -47,19 +34,7 @@ Given music's way of pulling us together, it's not surprising that [oxytocin](h
 These scans include an important caveat: if we are told a computer composed the song, the same region remains dark. In other words, _humanity_ is an essential component of our musicality.
 
 [![dancing-dolls.jpg]({% link /assets/images/posts/dancing-dolls.jpg %})](/assets/images/posts/dancing-dolls.jpg)
-<span class="caption">
-</span>
-<span class="credit">
-Image credit: 
-<a href="https://www.flickr.com/photos/johnpaulrobinson/">
-JP
-</a>
- via 
-<a href="https://www.flickr.com/photos/johnpaulrobinson/5259884650/">
-Flickr
-</a>
-(<a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>)
-</span>
+<span class="credit">Image credit: <a href="https://www.flickr.com/photos/johnpaulrobinson/">JP</a> via <a href="https://www.flickr.com/photos/johnpaulrobinson/5259884650/">Flickr</a> (<a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>)</span>
 
 
 It is ironic, then, how computer-composer [EMI](http://artsites.ucsc.edu/faculty/cope/experiments.htm) highlights this human element so well. Programmed by professional composer David Cope in a bout of writer's block, EMI can analyze the work of any famous composer and produce an "original" piece imitating their style. While most purely A.I.-generated tunes are [pretty strange](https://www.athensscienceobserver.com/2017/12/14/a-computer-generated-christmas-carol/), EMI's work astounded experts and classical enthusiasts, many of whom [had trouble distinguishing EMI's work](https://www.nytimes.com/1997/11/11/science/undiscovered-bach-no-a-computer-wrote-it.html) from that of the musician who inspired it.
@@ -71,19 +46,7 @@ In this sense, EMI touches on a deeper side to music's communicative capabilitie
 Perhaps that's why the songs we weave into our cultural lives- from rock to folk to hymns to hip hop- carry so much of our heritage. Words on paper may provide records of the thoughts and ideas of those who came before us, but as songs are played and replayed, remixed and embellished upon, we make pieces of their creative identity our own.
 
 [![orchestra.jpg]({% link /assets/images/posts/orchestra.jpg %})](/assets/images/posts/orchestra.jpg)
-<span class="caption">
-</span>
-<span class="credit">
-Image credit: 
-<a href="https://www.flickr.com/photos/lewiselementary/">
-Meriwether Lewis Elementary School
-</a>
- via 
-<a href="https://www.flickr.com/photos/lewiselementary/8842561548/">
-Flickr
-</a>
-(<a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>)
-</span>
+<span class="credit">Image credit: <a href="https://www.flickr.com/photos/lewiselementary/">Meriwether Lewis Elementary School</a> via <a href="https://www.flickr.com/photos/lewiselementary/8842561548/">Flickr</a> (<a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>)</span>
 
 
 We may never completely unravel the mystery of music. But maybe, just outside the reach of fMRI scans and neurotransmitter levels, its deepest gravity lies in what we cannot prove: the way a loved one's favorite song brings back pieces of who they were; the way lullabies and slow dances weave together our shared histories; even in the daily joy of singing in the shower.
