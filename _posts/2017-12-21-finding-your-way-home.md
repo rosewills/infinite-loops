@@ -7,6 +7,7 @@ date: 2017-12-21
 author: Rosemary Wills
 categories: science-writing
 tags:
+  - aso
 cover: snow-road.jpg
 preview: snow-road.jpg
 cover-alt:

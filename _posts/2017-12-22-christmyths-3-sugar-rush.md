@@ -7,6 +7,7 @@ date: 2017-12-22
 author: Rosemary Wills
 categories: science-writing
 tags:
+  - aso
 cover:
 preview: xmas-cookies.jpg
 cover-alt: xmas-cookies.jpg

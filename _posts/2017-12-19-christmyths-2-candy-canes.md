@@ -7,6 +7,7 @@ date: 2017-12-19
 author: Rosemary Wills
 categories: science-writing
 tags:
+  - aso
 cover: candy-canes.jpg
 preview: candy-canes.jpg
 cover-alt:

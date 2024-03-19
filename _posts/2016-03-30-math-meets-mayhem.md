@@ -7,8 +7,9 @@ date: 2016-03-30
 author: Rosemary Wills
 categories: science-writing
 tags:
-- math
-- fractals
+  - math
+  - fractals
+  - aso
 cover: fractal-plant.jpg
 preview: fractal-plant.jpg
 cover-alt:

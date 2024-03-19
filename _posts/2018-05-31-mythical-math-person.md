@@ -7,6 +7,7 @@ date: 2018-05-31
 author: Rosemary Wills
 categories: science-writing
 tags:
+  - aso
 cover: math-homework.jpg
 preview: math-homework.jpg
 cover-alt:

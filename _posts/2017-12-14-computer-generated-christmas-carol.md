@@ -7,6 +7,7 @@ date: 2017-12-14
 author: Rosemary Wills
 categories: science-writing
 tags:
+  - aso
 cover: computer-ornament.jpg
 preview: computer-ornament.jpg
 cover-alt:

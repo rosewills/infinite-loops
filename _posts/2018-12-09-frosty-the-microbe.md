@@ -8,6 +8,7 @@ categories: science-writing
 tags:
   - microbiology
   - seasonal
+  - aso
 cover: snowflakes-on-handrail.jpg
 preview: snowflakes-on-handrail.jpg
 cover-alt: "ALT: snowflakes on a handrail."

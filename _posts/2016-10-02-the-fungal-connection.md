@@ -6,7 +6,8 @@ description: On the mycorrhizal messengers plants rely on to communicate.
 date: 2016-10-02
 author: Rosemary Wills
 categories: science-writing
-tags: 
+tags:
+  - aso
 cover: fly-agaric-cover.jpg
 preview: fly-agaric.jpg
 cover-alt: 

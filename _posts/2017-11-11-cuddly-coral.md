@@ -7,6 +7,7 @@ date: 2017-11-11
 author: Rosemary Wills
 categories:
 tags:
+  - aso
 cover: crochet-coral.jpg
 preview: seaslugs-scili2.jpg
 cover-alt:

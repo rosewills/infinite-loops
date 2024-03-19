@@ -7,6 +7,7 @@ date: 2016-06-08
 author: Rosemary Wills
 categories: science-writing
 tags:
+  - aso
 cover: skittles-cover.jpg
 preview: skittles.jpg
 cover-alt:

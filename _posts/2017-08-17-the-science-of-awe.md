@@ -7,6 +7,7 @@ date: 2017-08-26
 author: Rosemary Wills
 categories: science-writing
 tags:
+  - aso
 cover: rw-horizon.jpg
 preview: airplane.jpg
 cover-alt:

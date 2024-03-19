@@ -6,8 +6,9 @@ date: 2018-03-01
 author: Rosemary Wills
 categories: science-writing
 tags:
-- microbiology
-- seasonal
+  - microbiology
+  - seasonal
+  - aso
 cover: waxwing-branch.jpg
 preview: waxwing-double-berry.jpg
 published: true

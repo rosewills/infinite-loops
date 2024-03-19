@@ -7,6 +7,7 @@ date: 2017-12-15
 author: Rosemary Wills
 categories: science-writing
 tags:
+  - aso
 cover: turkey.jpg
 preview: turkey.jpg
 cover-alt:

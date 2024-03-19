@@ -6,8 +6,9 @@ date: 2015-10-22
 author: Rosemary Wills
 categories: science-writing
 tags:
-- microbiology
-- extremophiles
+  - microbiology
+  - extremophiles
+  - aso
 cover: tiny-batman-cover.jpg
 preview: tiny-batman.jpg
 cover-alt:

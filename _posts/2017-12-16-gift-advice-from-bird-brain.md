@@ -7,6 +7,7 @@ date: 2017-12-16
 author: Rosemary Wills
 categories: science-writing
 tags:
+  - aso
 cover: bird-gift-cover.jpg
 preview: bird-gift.jpg
 cover-alt:

@@ -7,6 +7,7 @@ date: 2017-05-25
 author: Rosemary Wills
 categories:
 tags:
+  - aso
 cover: broken-glass.jpg
 preview: cake.jpg
 cover-alt:

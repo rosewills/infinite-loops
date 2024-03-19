@@ -7,6 +7,7 @@ date: 2018-05-10
 author: Rosemary Wills
 categories: science-writing
 tags:
+  - aso
 cover: guitar.jpg
 preview: guitar.jpg
 cover-alt:

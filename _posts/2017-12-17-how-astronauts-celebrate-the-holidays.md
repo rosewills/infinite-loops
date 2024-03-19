@@ -7,6 +7,7 @@ date: 2017-12-17
 author: Rosemary Wills
 categories:
 tags:
+  - aso
 cover: astronaut-xmas.jpg
 preview: astronaut-xmas.jpg
 cover-alt:

@@ -7,6 +7,7 @@ date: 2017-12-23
 author: Rosemary Wills
 categories: science-writing
 tags:
+  - aso
 cover: xmas-lights.jpg
 preview: xmas-lights.jpg
 cover-alt:

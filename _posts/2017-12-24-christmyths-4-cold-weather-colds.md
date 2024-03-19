@@ -7,6 +7,7 @@ date: 2017-12-24
 author: Rosemary Wills
 categories: science-writing
 tags:
+  - aso
 cover: xmas-cold.jpg
 preview: xmas-cold.jpg
 cover-alt:

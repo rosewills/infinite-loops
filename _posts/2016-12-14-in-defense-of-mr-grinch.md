@@ -7,6 +7,7 @@ date: 2016-12-14
 author: Rosemary Wills
 categories: science-writing
 tags:
+  - aso
 cover: sound-lake-cover.jpg
 preview: grinch.jpg
 cover-alt:

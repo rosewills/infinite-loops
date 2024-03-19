@@ -7,6 +7,7 @@ date: 2017-12-20
 author: Rosemary Wills
 categories: science-writing
 tags:
+  - aso
 cover:
 preview: xmas-sing.jpg
 cover-alt:

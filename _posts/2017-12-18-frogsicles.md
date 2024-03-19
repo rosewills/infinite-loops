@@ -7,6 +7,7 @@ date: 2017-12-18
 author: Rosemary Wills
 categories: science-writing
 tags:
+  - aso
 cover: wood-frog.jpg
 preview: wood-frog.jpg
 cover-alt:
