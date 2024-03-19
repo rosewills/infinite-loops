@@ -1,6 +1,6 @@
 menu:
 - {name: "blog", url: "/blog"}
-- {name: "articles", url: "/writing"}
+- {name: "articles", url: "/articles"}
 - {name: "contact", url: "/contact"}
 
 social:

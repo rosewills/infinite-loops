@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Finding Your Way Home
 subtitle:
 description: From the "12 Days of ASO Christmas" mini-series (day eight)

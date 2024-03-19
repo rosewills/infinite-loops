@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Merry Christmyths #1"
 subtitle: Does the Tryptophan in Turkey Make You Sleepy?
 description: From the "12 Days of ASO Christmas" mini-series (day two)

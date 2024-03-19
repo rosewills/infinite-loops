@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Merry Christmyths #2"
 subtitle: Candy Canes on the Brain
 description: From the "12 Days of ASO Christmas" mini-series (day six)

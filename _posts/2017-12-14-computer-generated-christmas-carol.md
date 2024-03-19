@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: A Computer-Generated Christmas Carol
 subtitle:
 description: From the "12 Days of ASO Christmas" mini-series (day one)

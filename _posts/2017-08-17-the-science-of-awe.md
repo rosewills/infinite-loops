@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: The Science of Awe
 subtitle:
 description: In memory of my dad on his birthday.

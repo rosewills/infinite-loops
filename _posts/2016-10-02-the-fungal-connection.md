@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: The Fungal Connection
 subtitle: They Come in Peace to All Plantkind
 description: On the mycorrhizal messengers plants rely on to communicate.

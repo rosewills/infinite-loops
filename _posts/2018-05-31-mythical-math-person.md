@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: The Mythical Math Person
 subtitle:
 description: On the complexity of learning.

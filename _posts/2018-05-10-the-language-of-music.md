@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: The Language of Music
 subtitle:
 description: Exploring how music helps us communicate and express ourselves.

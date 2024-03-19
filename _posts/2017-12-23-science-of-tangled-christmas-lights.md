@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: The Science of Tangled Christmas Lights
 subtitle:
 description: From the "12 Days of ASO Christmas" mini-series (day ten)

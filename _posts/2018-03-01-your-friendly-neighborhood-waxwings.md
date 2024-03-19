@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Your Friendly Neighborhood Waxwings
 description: Holly bushes beware.
 date: 2018-03-01

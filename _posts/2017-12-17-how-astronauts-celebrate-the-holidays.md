@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: How Astronauts Celebrate the Holidays
 subtitle:
 description: From the "12 Days of ASO Christmas" mini-series (day four)

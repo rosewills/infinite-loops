@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Math Meets Mayhem
 subtitle: How Fractals Shape the Universe
 description: The fun goes on and on...

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Synesthesia
 subtitle: See What I'm Saying?
 description: Can you see sounds? A look at the colorful world of synesthesia.

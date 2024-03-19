@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Merry Christmyths #4"
 subtitle: Does Cold Weather Really Lead to Colds?
 description: From the "12 Days of ASO Christmas" mini-series (day eleven)

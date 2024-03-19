@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Cuddly Coral
 subtitle: The Story of the Crochet Coral Reef
 description: Get hooked on coral - literally.

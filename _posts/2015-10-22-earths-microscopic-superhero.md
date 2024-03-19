@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Earth's Microscopic Superhero
 description: On the mythical abilities of your friendly neighborhood microbes.
 date: 2015-10-22

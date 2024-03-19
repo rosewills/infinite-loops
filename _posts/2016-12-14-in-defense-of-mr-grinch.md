@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: In Defense of Mr. Grinch
 subtitle:
 description: Sleigh bells ring, are you listening?

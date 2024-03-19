@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Catchy Carols
 subtitle: Why Holiday Songs Get Stuck in Our Heads
 description: From the "12 Days of ASO Christmas" mini-series (day seven)

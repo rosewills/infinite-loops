@@ -122,6 +122,7 @@ h6, .h6 {
 
 .site-title {
 	display: flex;
+	justify-content: center;
 	font-family: $ff-heading;
 	font-size: $fs-site-title;
 	font-weight: $fw-site-title;
@@ -145,43 +146,57 @@ h6, .h6 {
 
 // ---------- Blog Posts ----------
 
-.post-header {
+.post .header,
+.article .header,
+.page .header {
 	display: flex;
 	width: 100%;
 	flex-direction: column;
-	height: 15rem;
-	margin-bottom: 2rem;
 	width: 100%;
 	background-color: #ffffff;
 	&.has-cover {
+		height: 15rem;
 		background-size: cover;
 		background-repeat: no-repeat;
 	}
 }
 
-.post-title {
-	text-align: center;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: auto;
-	padding-right: 1rem;
-	padding-left: 1rem;
+.post .header,
+.article .header {
+	margin-bottom: 2rem;
 }
 
-.post-title,
+.page .header {
+	margin-bottom: 3rem;
+}
+
+.title,
 .meta-section {
 	display: flex;
 	flex-direction: row;
 }
 
-.post-title{
+.title {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	padding-right: 1rem;
+	padding-left: 1rem;
 	font-family: $ff-heading;
 	font-size: $fs-post-title;
 	font-weight: $fw-post-title;
-
 }
 
-.post-title.sub {
+.post .title {
+	text-align: left;
+}
+
+.article .title,
+.page .title {
+	text-align: center;
+}
+
+.title.sub {
 	margin-top: 0px;
 	font-size: $fs-post-sub;
 	color: $fc-post-sub;
@@ -192,22 +207,22 @@ h6, .h6 {
 	margin-top: 1rem;
 }
 
-.post-meta {
+.meta {
 	flex-grow: 1;
 }
 
-.post-meta.left {
+.meta.left {
 	width: 25%;
 	text-align: left;
 	margin-left: 1rem;
 }
 
-.post-meta.middle {
+.meta.middle {
 	width: 50%;
 	text-align: center;
 }
 
-.post-meta.right {
+.meta.right {
 	width: 25%;
 	text-align: right;
 	margin-right: 1rem;
@@ -261,34 +276,34 @@ img,
 }
 
 
-// ---------- Blog Page ----------
-.post-list {
+// ---------- Lists ----------
+.list {
 	tr {
 		border-bottom: 1px solid $fc-fade;
 	}
 }
 
-.post-link {
+.list .link {
 	font-family: $ff-heading;
 	font-size: $fs-post-link;
 	font-weight: $fw-post-link;
 	text-decoration: none;
 }
 
-.post-excerpt {
+.list .excerpt {
 	font-size: $fs-caption;
 }
 
-.post-list .post-meta {
+.list .meta {
 	color: $fc-fade;
 }
 
-.post-date {
+.list .date {
 	text-align: left;
 	font-size: $fs-caption;
 }
 
-.post-categories {
+.list .categories {
 	margin-right: 0;
 	text-align: right;
 	font-size: 0.9em;
@@ -312,11 +327,11 @@ img,
 	width: 100%;
  }
 
-.preview-col {
+.list .column.preview {
 	width: 20%;
 }
 
-.post-info-col {
+.list .column.info {
 	padding-top: 1rem;
 	padding-bottom: 1rem;
 	width: 80%;

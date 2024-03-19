@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Frosty the Microbe
 description: These bacteria are super cool.
 date: 2018-12-09

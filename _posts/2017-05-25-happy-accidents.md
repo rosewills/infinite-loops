@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Happy Accidents
 subtitle: Your Brain on Mistakes
 description: Bob Ross was on to something.
