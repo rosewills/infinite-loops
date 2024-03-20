@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Intro Post"
 description: 
 date: 2021-08-17
