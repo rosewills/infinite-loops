@@ -1,5 +1,5 @@
 menu:
-- {name: "blog", url: "/blog"}
+- {name: "crafts", url: "/crafts"}
 - {name: "articles", url: "/articles"}
 - {name: "contact", url: "/contact"}
 
