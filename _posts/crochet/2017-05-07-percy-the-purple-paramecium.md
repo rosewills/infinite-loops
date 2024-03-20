@@ -1,7 +1,7 @@
 ---
 layout: blog
-title:  "Percy the Purple Paramecium"
-description: 
+title:  Percy the Purple Paramecium
+description: Everyone's favorite model organism.
 date: 2017-05-07
 author: Rosemary Wills
 categories: 

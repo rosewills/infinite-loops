@@ -1,7 +1,8 @@
 menu:
+- {name: "home", url: "/"}
 - {name: "crafts", url: "/crafts"}
 - {name: "articles", url: "/articles"}
-- {name: "contact", url: "/contact"}
+- {name: "about", url: "/about"}
 
 social:
 - {site: "Linkedin", user: "rmvwills", icon: "linkedin", link: "https://linkedin.com/in/rmvwills/"}

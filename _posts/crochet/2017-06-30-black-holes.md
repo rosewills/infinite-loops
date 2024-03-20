@@ -1,7 +1,7 @@
 ---
 layout: blog
-title:  "Black Holes (Crochet Tutorial!)"
-description: 
+title:  Black Holes (Crochet Tutorial!)
+description: Create your own pocket-sized inescapable void.
 date: 2017-06-30
 author: Rosemary Wills
 categories: 

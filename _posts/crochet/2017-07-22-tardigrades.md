@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: "Tardigrades"
-description: 
+title: Tardigrades
+description: Water bears! Moss piglets! SPACE BEARS!
 date: 2017-07-22
 author: Rosemary Wills
 categories: 
