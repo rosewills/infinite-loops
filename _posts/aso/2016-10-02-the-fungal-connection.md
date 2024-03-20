@@ -8,8 +8,8 @@ author: Rosemary Wills
 categories: science-writing
 tags:
   - aso
-cover: fly-agaric-cover.jpg
-preview: fly-agaric.jpg
+cover: aso-articles/fly-agaric-cover.jpg
+preview: aso-articles/fly-agaric.jpg
 cover-alt: 
 published: true
 source: Athens Science Observer
@@ -24,7 +24,7 @@ Contrary to assumptions of 19th-century botanists, fungi aren’t just odd, leaf
 The logical way to obtain those vital carbs, at least to most other [heterotrophs](https://en.wikipedia.org/wiki/Heterotroph) (humans included), is to consume organic matter (i.e. eat a salad). [But while this is certainly](https://en.wikipedia.org/wiki/Plant_pathology#Fungi) [a popular option](http://plantpath.caes.uga.edu/extension/documents/fungikey.pdf), some fungi opt for a more diplomatic approach. These mycorrhizal fungi propose a trade, offering their hard-earned minerals in exchange for some of the plant's precious sugars.
 
 
-[![fly-agaric.jpg]({% link /assets/images/posts/fly-agaric.jpg %})](/assets/images/posts/fly-agaric.jpg)
+[![fly-agaric.jpg]({% link /assets/images/aso-articles/fly-agaric.jpg %})](/assets/images/aso-articles/fly-agaric.jpg)
 <span class="caption">The mold that spoiled your tomato sandwich might be the same one that grew it.</span>
 <span class="credit">Image credit: <a href="https://www.flickr.com/photos/nickpix2008/">Nick Ford</a> via <a href="https://www.flickr.com/photos/nickpix2008/6303184406/">Flickr</a> (<a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>)</span>
 
@@ -35,7 +35,7 @@ The problem is, plants can only take up these minerals in through cells at the v
 
 In this way, nature's [symbiotic](https://www.athensscienceobserver.com/2015/08/04/best-friends-for-life-the-remarkable-and-delicate-world-of-symbiosis/) dream team thrives. Of all known plants on earth, as many as [90% rely on mycorrhizal aid](http://sciweb.nybg.org/science2/hcol/mycorrhizae.asp.html), receiving up to [80% of their nitrogen and 75% of their phosphorous](http://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2007.01139.x/abstract) from their microscopic sidekicks. Most plants are equally generous, [paying out more than a fifth](http://www.the-compost-gardener.com/plant-fungi.html) of their own sugar production.
 
-[![mycelium.jpg]({% link /assets/images/posts/mycelium.jpg %})](/assets/images/posts/mycelium.jpg)
+[![mycelium.jpg]({% link /assets/images/aso-articles/mycelium.jpg %})](/assets/images/aso-articles/mycelium.jpg)
 <span class="caption">This friendship is as old as dirt – in fact, fungi may have allowed plats to colonize it.</span>
 <span class="credit">Image credit: <a href="https://www.flickr.com/photos/bushman_k/">Kirill Ignatyev</a> via <a href="https://www.flickr.com/photos/bushman_k/6177594429/">Flickr</a> (<a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY 2.0</a>)</span>
 
@@ -47,7 +47,7 @@ Although this ancient friendship is inspiring all by itself, the two have an eve
 Imagine a neighborhood knit of strands, as thin as spider’s silk, weaving roots into webs spanning hundreds of acres in size. [Research into several species of pine](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2009.03069.x/full) (and [other plant varieties](http://www.functionalecology.org/view/0/virtualIssues/VI_MycorrhizalNetworks.html)) has revealed that trees pass chemical signals and even their own hard-won carbon [to other trees nearby](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2009.03069.x/full) via their shared mycorrhizae, which use their hollow bodies to act as microscopic postmen.
 
 
-[![mychorrhizal-network.gif]({% link /assets/images/posts/mychorrhizal-network.gif %})](/assets/images/posts/mychorrhizal-network.gif)
+[![mychorrhizal-network.gif]({% link /assets/images/aso-articles/mychorrhizal-network.gif %})](/assets/images/aso-articles/mychorrhizal-network.gif)
 <span class="caption">_Rhizopogon_ mychorrhizal network connecting Douglas Fir trees.</span>
 <span class="credit">Image credit: <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2009.03069.x/full#f1">Figure 1, Beiler, et al. 2001</a></span>
 

@@ -5,10 +5,10 @@ description:
 date: 2021-08-17
 author: Rosemary Wills
 categories: misc
-tags: oreo.jpg
-cover: oreo.jpg
+tags:
+cover: oreo-teddy.jpg
+preview: oreo-teddy.jpg
 cover-alt: 
-preview: 
 published: true
 source: 
 source-url: 

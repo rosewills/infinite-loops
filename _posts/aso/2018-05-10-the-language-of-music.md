@@ -8,8 +8,8 @@ author: Rosemary Wills
 categories: science-writing
 tags:
   - aso
-cover: guitar.jpg
-preview: guitar.jpg
+cover: aso-articles/guitar.jpg
+preview: aso-articles/guitar.jpg
 cover-alt:
 published: true
 source: Athens Science Observer
@@ -23,7 +23,7 @@ Yet despite our collective obsession with music, the phenomenon remains as myste
 
 Yet those who devote their life to the creation and study of music know our melodies run deeper than mere misplaced instincts. An ever-growing body of scientific research is echoing what they've understood all along- and making the idea of music as non-caloric, neurological dessert harder and harder to swallow.
 
-[![guitar.jpg]({% link /assets/images/posts/guitar.jpg %})](/assets/images/posts/guitar.jpg)
+[![guitar.jpg]({% link /assets/images/aso-articles/guitar.jpg %})](/assets/images/aso-articles/guitar.jpg)
 <span class="caption">Playing the guitar.</span><span class="credit">Image credit: <a href="https://www.flickr.com/photos/i-rocksteady/">Risa Ikeda</a> via <a href="https://www.flickr.com/photos/i-rocksteady/5106991146/">Flickr</a> (<a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>)</span>
 
 
@@ -33,7 +33,7 @@ Given music's way of pulling us together, it's not surprising that [oxytocin](h
 
 These scans include an important caveat: if we are told a computer composed the song, the same region remains dark. In other words, _humanity_ is an essential component of our musicality.
 
-[![dancing-dolls.jpg]({% link /assets/images/posts/dancing-dolls.jpg %})](/assets/images/posts/dancing-dolls.jpg)
+[![dancing-dolls.jpg]({% link /assets/images/aso-articles/dancing-dolls.jpg %})](/assets/images/aso-articles/dancing-dolls.jpg)
 <span class="credit">Image credit: <a href="https://www.flickr.com/photos/johnpaulrobinson/">JP</a> via <a href="https://www.flickr.com/photos/johnpaulrobinson/5259884650/">Flickr</a> (<a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>)</span>
 
 
@@ -45,7 +45,7 @@ In this sense, EMI touches on a deeper side to music's communicative capabilitie
 
 Perhaps that's why the songs we weave into our cultural lives- from rock to folk to hymns to hip hop- carry so much of our heritage. Words on paper may provide records of the thoughts and ideas of those who came before us, but as songs are played and replayed, remixed and embellished upon, we make pieces of their creative identity our own.
 
-[![orchestra.jpg]({% link /assets/images/posts/orchestra.jpg %})](/assets/images/posts/orchestra.jpg)
+[![orchestra.jpg]({% link /assets/images/aso-articles/orchestra.jpg %})](/assets/images/aso-articles/orchestra.jpg)
 <span class="credit">Image credit: <a href="https://www.flickr.com/photos/lewiselementary/">Meriwether Lewis Elementary School</a> via <a href="https://www.flickr.com/photos/lewiselementary/8842561548/">Flickr</a> (<a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>)</span>
 
 

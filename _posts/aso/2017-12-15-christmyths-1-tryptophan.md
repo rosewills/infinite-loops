@@ -8,8 +8,8 @@ author: Rosemary Wills
 categories: science-writing
 tags:
   - aso
-cover: turkey.jpg
-preview: turkey.jpg
+cover: aso-articles/turkey.jpg
+preview: aso-articles/turkey.jpg
 cover-alt:
 published: true
 source: Athens Science Observer
@@ -26,7 +26,7 @@ Turkey's high tryptophan content is responsible for your post-holiday-dinner slu
 Turkey isn't any more sleep-inducing than cheddar cheese or a handful of almonds.
 
 
-[![turkey.jpg]({% link /assets/images/posts/turkey.jpg %})](/assets/images/posts/turkey.jpg)
+[![turkey.jpg]({% link /assets/images/aso-articles/turkey.jpg %})](/assets/images/aso-articles/turkey.jpg)
 <span class="credit">Image credit: <a href="https://www.flickr.com/photos/thebokeeffect/">Andrea Goh</a> via <a href="https://www.flickr.com/photos/thebokeeffect/7308581026/">Flickr</a> (<a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>)</span>
 
 

@@ -9,8 +9,8 @@ tags:
   - microbiology
   - seasonal
   - aso
-cover: waxwing-branch.jpg
-preview: waxwing-double-berry.jpg
+cover: aso-articles/waxwing-branch.jpg
+preview: aso-articles/waxwing-double-berry.jpg
 published: true
 source: Athens Science Observer
 source-url: https://athensscienceobserver.com/2018/03/01/your-friendly-neighborhood-waxwings/
@@ -24,7 +24,7 @@ And then there's the waxwings.
 Picture a scene straight out of [Alfred Hitchcock's _The Birds_](https://www.youtube.com/watch?v=Lw0FP9putKM)_–_ except the hapless victim is a holly bush, and the flocking attackers have all the vicious savagery of a pack of golden retrievers.
 
 
-[![waxwing-branch.jpg]({% link /assets/images/posts/waxwing-branch.jpg %})](/assets/images/posts/waxwing-branch.jpg)
+[![waxwing-branch.jpg]({% link /assets/images/aso-articles/waxwing-branch.jpg %})](/assets/images/aso-articles/waxwing-branch.jpg)
 <span class="caption"></span>
 <span class="credit">Image credit: [Kelly Colgan Azar](https://www.flickr.com/photos/puttefin/) via [Flickr](https://flic.kr/p/72GX1h). Licensed under [CC BY-ND 2.0](https://creativecommons.org/licenses/by-nd/2.0/).</span>
 
@@ -38,7 +38,7 @@ Early 20th-century ornithologist [Arthur Cleveland Bent](https://books.google.c
 Of course, this is not to say they are passive. Waxwings consider a cool and collected attitude toward one's favorite things completely unnecessary. Take their love of berries (after all, any good social gathering must involve food). Waxwings have evolved to be [one of the only birds in America](https://www.allaboutbirds.org/guide/Cedar_Waxwing/lifehistory) that can survive entirely on fruit for months at a time. Experts call them "[intensive foragers](https://nationalzoo.si.edu/migratory-birds/news/moveable-feaster)..." key word being _intensive_.
 
 
-[![waxwing-eats-berry]({% link /assets/images/posts/waxwing-eats-berry.jpg %})](/assets/images/posts/waxwing-eats-berry.jpg)
+[![waxwing-eats-berry]({% link /assets/images/aso-articles/waxwing-eats-berry.jpg %})](/assets/images/aso-articles/waxwing-eats-berry.jpg)
 <span class="caption">While most birds politely peck out the seeds, waxwings don't bother- they simply swallow the fruit whole.</span>
 <span class="credit">Image credit: [Rogelio A. Galaviz C.](https://flic.kr/p/Cik53) via [Flickr](https://flic.kr/p/Cik53). Licensed under [CC BY NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/).</span>
 
@@ -50,7 +50,7 @@ The feeding frenzy tends to leave a mess of berry bits and fallen twigs on the s
 Of course, unbridled enthusiasm is not without occasional consequences. In their haste, waxwings have been known to accidentally (so we assume) consume overripe, fermented berries. Passerby later report [inebriated birds](https://www.youtube.com/watch?v=oFnDISBrX5s) stumbling around, weakly fluttering, or simply passed out in the grass (take a moment here to conjure your best mental image of an intoxicated songbird).
 
 
-[![waxwing-double-berry.jpg]({% link /assets/images/posts/waxwing-double-berry.jpg %})](/assets/images/posts/waxwing-double-berry.jpg)
+[![waxwing-double-berry.jpg]({% link /assets/images/aso-articles/waxwing-double-berry.jpg %})](/assets/images/aso-articles/waxwing-double-berry.jpg)
 <span class="credit">Image credit: [Henry T. McLin](https://www.flickr.com/photos/hmclin/) via [Flickr](https://www.flickr.com/photos/hmclin/9661182513/). Licensed under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/).</span>
 
 
@@ -63,7 +63,7 @@ A favorite game of theirs involves passing an object such as a leaf back and for
 If all this fun and games makes them hungry again, waxwings have been known to line up along a branch and pass berries down the line to any friends who can't reach- just like passing the potatoes at a big family dinner.
 
 
-[![waxwing-couple.jpg]({% link /assets/images/posts/waxwing-couple.jpg %})](/assets/images/posts/waxwing-couple.jpg)
+[![waxwing-couple.jpg]({% link /assets/images/aso-articles/waxwing-couple.jpg %})](/assets/images/aso-articles/waxwing-couple.jpg)
 <span class="credit">Image credit: [Watts](https://www.flickr.com/photos/watts_photos/) via [Flickr](https://www.flickr.com/photos/watts_photos/26411258238/). Licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).</span>
 
 

@@ -8,8 +8,8 @@ author: Rosemary Wills
 categories: science-writing
 tags:
   - aso
-cover: skittles-cover.jpg
-preview: skittles.jpg
+cover: aso-articles/skittles-cover.jpg
+preview: aso-articles/skittles.jpg
 cover-alt:
 published: true
 source: Athens Science Observer
@@ -23,7 +23,7 @@ Because their colors clash, of course. And seven can be a bit of a jerk.
 
 We tend to trust our own perceptions, and assume others share the same reality we experience. But for about [1 in 23 people](http://sro.sussex.ac.uk/14073/1/p5469.pdf), such things as friendly or specifically-colored numbers are just another aspect of reality.
 
-[![skittles.jpg]({% link /assets/images/posts/skittles.jpg %})](/assets/images/posts/skittles.jpg)
+[![skittles.jpg]({% link /assets/images/aso-articles/skittles.jpg %})](/assets/images/aso-articles/skittles.jpg)
 <span class="credit">Image credit: <a href="https://www.flickr.com/photos/mel7ares/">Maryam Abdulghaffar</a> via <a href="https://www.flickr.com/photos/mel7ares/5195270697/">Flickr</a> (<a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>)</span>
 
 In fact, it could take years for them to realize their friends don’t know the texture of their name, or that, for the rest of the world, "tasting the rainbow" requires [Skittles](http://skittles.com/).
@@ -35,7 +35,7 @@ Remember the scene in the [Pixar movie _Ratatoullie_](https://www.youtube.com/
 Synesthesia comes in many forms. The association of numbers or letters with colors is one of the most well-known. An "I" might always look milky-white, and "O" blue-green, regardless of their printed hue. Others go beyond the five senses: many subconsciously attach genders or entire personalities to numbers and letters. To me, the number "2" is a shy, serious little boy, and the letter "V" is a friendly, somewhat eccentric artist. The number "7", as mentioned, is a real pain- being considered lucky must have gone to his head.
 
 
-[![grapheme-color.png]({% link /assets/images/posts/grapheme-color.png %})](/assets/images/posts/grapheme-color.png)
+[![grapheme-color.png]({% link /assets/images/aso-articles/grapheme-color.png %})](/assets/images/aso-articles/grapheme-color.png)
 <span class="credit">Image credit: <a href="https://www.flickr.com/photos/twitchcraft/">Kelley</a> via <a href="https://www.flickr.com/photos/mel7ares/5195270697/">Flickr</a></span>
 
 
@@ -44,7 +44,7 @@ While tasting bananas every time you hear a B-sharp might seem distracting, most
 In fact, a little shuffling of the senses may not be as unusual as previously thought. Consider the two shapes below- if you were to assign each of the following shapes a name, which would be "Kiki," and which "Bouba?"
 
 
-[![bouba-kiki.png]({% link /assets/images/posts/bouba-kiki.png %})](/assets/images/posts/bouba-kiki.png)
+[![bouba-kiki.png]({% link /assets/images/aso-articles/bouba-kiki.png %})](/assets/images/aso-articles/bouba-kiki.png)
 <span class="credit">Image credit: Andrew Dunn via <a href="https://en.wikipedia.org/wiki/File:Booba-Kiki.svg">Wikimedia Commons</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">CC BY-SA 3.0</a>)</span>
 
 

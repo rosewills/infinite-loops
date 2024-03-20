@@ -19,6 +19,7 @@ $fs-site-title: 3rem;
 $fs-post-title: calc(1.375rem + 1.5vw);
 $fs-post-sub: calc(1.3rem + .3vw);
 $fs-post-link: 1.5rem;
+$fs-footnote: .85rem;
 
 
 $fw-site-title: 400;
@@ -241,10 +242,33 @@ h6, .h6 {
 	color: $fc-source;
 }
 
+
+.fn-inline {
+	text-decoration: none;
+}
+
+.fn-end {
+	font-size: $fs-footnote;
+}
+
+.fn-id {
+	font-size: $fs-footnote;
+}
+
+.fn-ret:before {
+	content: "\21BB";
+	display: inline-block;
+	padding-right: 3px;
+	vertical-align: middle;
+}
+
+
 // Images & Captions
 img {
 	margin-top: 1.5rem;
 	margin-bottom: 1rem;
+	max-width: 90%;
+	max-height: 20rem;
 }
 
 img,

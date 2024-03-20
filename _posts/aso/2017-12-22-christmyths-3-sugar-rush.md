@@ -9,7 +9,7 @@ categories: science-writing
 tags:
   - aso
 cover:
-preview: xmas-cookies.jpg
+preview: aso-articles/xmas-cookies.jpg
 cover-alt: xmas-cookies.jpg
 published: true
 source: Athens Science Observer
@@ -26,7 +26,7 @@ Sugar makes kids hyper.
 The sugar-hyperactivity connection is not supported by science.
 
 
-[![xmas-cookies.jpg]({% link /assets/images/posts/xmas-cookies.jpg %})](/assets/images/posts/xmas-cookies.jpg)
+[![xmas-cookies.jpg]({% link /assets/images/aso-articles/xmas-cookies.jpg %})](/assets/images/aso-articles/xmas-cookies.jpg)
 <span class="credit">Image credit: <a href="https://www.flickr.com/photos/joshpuetz/">Josh Puetz</a> via <a href="https://www.flickr.com/photos/joshpuetz/11499351776/">Flickr</a> (<a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>)</span>
 
 

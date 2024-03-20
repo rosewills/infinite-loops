@@ -8,8 +8,8 @@ author: Rosemary Wills
 categories: science-writing
 tags:
   - aso
-cover: xmas-cold.jpg
-preview: xmas-cold.jpg
+cover: aso-articles/xmas-cold.jpg
+preview: aso-articles/xmas-cold.jpg
 cover-alt:
 published: true
 source: Athens Science Observer
@@ -26,7 +26,7 @@ _The Reality_:
 While frosty air itself won't give you the sniffles, you should still bundle up.
 
 
-[![xmas-cold.jpg]({% link /assets/images/posts/xmas-cold.jpg %})](/assets/images/posts/xmas-cold.jpg)
+[![xmas-cold.jpg]({% link /assets/images/aso-articles/xmas-cold.jpg %})](/assets/images/aso-articles/xmas-cold.jpg)
 <span class="credit">Image credit: <a href="https://www.flickr.com/photos/highwaygirl67/">Barb</a> via <a href="https://www.flickr.com/photos/highwaygirl67/4263293650/">Flickr</a> (<a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>)</span>
 
 

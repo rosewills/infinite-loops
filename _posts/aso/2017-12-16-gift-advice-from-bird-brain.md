@@ -8,8 +8,8 @@ author: Rosemary Wills
 categories: science-writing
 tags:
   - aso
-cover: bird-gift-cover.jpg
-preview: bird-gift.jpg
+cover: aso-articles/bird-gift-cover.jpg
+preview: aso-articles/bird-gift.jpg
 cover-alt:
 published: true
 source: Athens Science Observer
@@ -22,7 +22,7 @@ Gift-giving isn't just a human phenomenon. Our feathered friends are some of the
 [Eurasian jays](https://en.wikipedia.org/wiki/Eurasian_jay) (members of the same family as [crows and blue jays](https://en.wikipedia.org/wiki/Corvidae)) are particularly thoughtful gift-givers. [After watching](http://www.pnas.org/content/110/10/4123) a female eat a meal of either moths or mealworms, males allowed to choose a moth or mealworm gift for her consistently offered the opposite of what she'd just eaten. Their logic: a bird who's just eaten a bunch of moths won't want yet another moth, so a mealworm present will seem extra special.
 
 
-[![bird-gift.jpg]({% link /assets/images/posts/bird-gift.jpg %})](/assets/images/posts/bird-gift.jpg)
+[![bird-gift.jpg]({% link /assets/images/aso-articles/bird-gift.jpg %})](/assets/images/aso-articles/bird-gift.jpg)
 <span class="credit">Image credit: <a href="https://www.flickr.com/photos/ferranp/">Ferran Pestaña</a> via <a href="https://www.flickr.com/photos/ferranp/2979089909/">Flickr</a> (<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>)</span>
 
 
