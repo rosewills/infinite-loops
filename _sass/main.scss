@@ -1,4 +1,4 @@
-$ff-body: "Nanum Myeongjo", serif;
+$ff-body: "Newsreader", serif;
 $ff-heading: "Arvo", serif;
 $ff-mono: "Cutive Mono", monospace;
 
@@ -21,10 +21,14 @@ $fs-post-sub: calc(1.3rem + .3vw);
 $fs-post-link: 1.5rem;
 $fs-footnote: .85rem;
 
+$lh-body: 1.3;
+$lh-header: 1.3;
+
 
 $fw-site-title: 400;
 $fw-post-title: 300;
 $fw-post-link: 300;
+$fw-body: 400;
 
 
 $bg-main: rgb(255, 255, 255);
@@ -53,8 +57,10 @@ a, a:link, a:visited, a:focus, a:hover, a:active{
 
 body {
 	background: $bg-main;
-	color: $fc-body;
 	font-family: $ff-body;
+	font-weight: $fw-body;
+	line-height: $lh-body;
+	color: $fc-body;
 }
 
 body a {
@@ -74,7 +80,7 @@ h6, .h6 {
 	margin-top: 0;
 	margin-bottom: .5rem;
 	font-weight: 500;
-	line-height: 1.3;
+	line-height: $lh-header;
 }
 
 h1, .h1 {
@@ -192,6 +198,7 @@ h6, .h6 {
 
 .article .title,
 .page .title {
+	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -212,18 +219,18 @@ h6, .h6 {
 }
 
 .meta.left {
-	width: 25%;
+	width: auto;
 	text-align: left;
 	margin-left: 1rem;
 }
 
 .meta.middle {
-	width: 50%;
+	width: auto;
 	text-align: center;
 }
 
 .meta.right {
-	width: 25%;
+	width: auto;
 	text-align: right;
 	margin-right: 1rem;
 }

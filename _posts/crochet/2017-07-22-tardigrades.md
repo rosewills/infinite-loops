@@ -32,7 +32,7 @@ I totally agree!
 
 
 [![tardigrade-wikicommons2.jpg]({% link /assets/images/blog/tardigrade/tardigrade-wikicommons2.jpg %})](/assets/images/blog/tardigrade/tardigrade-wikicommons2.jpg)
-<span class="caption">look at the beady lil eyes!</span>
+<span class="caption">look at the beady little eyes!</span>
 <span class="credit">Image credit: Frank Fox via <a href="https://commons.wikimedia.org/wiki/File:Mikrofoto.de-Baertierchen3.jpg">Wikimedia Commons</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.en">CC BY-SA 3.0</a>)</span>
 
 
