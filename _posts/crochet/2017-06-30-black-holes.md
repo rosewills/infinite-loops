@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: blogpost
 title:  Black Holes (Crochet Tutorial!)
 description: Create your own pocket-sized inescapable void.
 date: 2017-06-30

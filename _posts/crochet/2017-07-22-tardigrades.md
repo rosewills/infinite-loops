@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: blogpost
 title: Tardigrades
 description: Water bears! Moss piglets! SPACE BEARS!
 date: 2017-07-22

@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: blogpost
 title:  Percy the Purple Paramecium
 description: Everyone's favorite model organism.
 date: 2017-05-07
