@@ -3,6 +3,7 @@ menu:
 - {name: "crafts", url: "/crafts"}
 - {name: "articles", url: "/articles"}
 - {name: "about", url: "/about"}
+# - {name: "archive", url: "/archive"}
 
 social:
 - {site: "Linkedin", user: "rmvwills", icon: "linkedin", link: "https://linkedin.com/in/rmvwills/"}

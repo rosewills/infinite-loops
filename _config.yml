@@ -18,7 +18,23 @@ plugins:
   - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
   - jekyll-paginate
-  - jekyll-postfiles
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Pagination
+paginate: 20
+
+# # Archive settings (see https://github.com/jekyll/jekyll-archives/)
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layout: 'archive'
+#   permalinks:
+#     category: '/category/:name/'
+#     tag: '/tag/:name/'
 
 exclude:							# Ignore these directories when generating the site
   - "/vendor/"
