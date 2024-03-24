@@ -1,0 +1,23 @@
+<div class="card card-pin raco" style="min-height:250px;background:#333;">
+	<a href="{{site.baseurl}}{{post.url}}"  class="d-block p-3">
+		<h2 class="card-title title text-white mb-3">{{ post.title }}</h2>         
+		<small class="d-block text-muted">{{ post.content | strip_html | truncatewords:100 }}</small>
+		<div class="more mr-2 mb-2">                
+			<i class="fa fa-arrow-circle-right text-white" aria-hidden="true"></i>
+		</div>
+		</a>
+	<div class="wrapcat">
+		 <span class="gotopost">
+			<a href="{{site.baseurl}}{{post.url}}" class="text-dark"><i class="fa fa-arrow-circle-right"></i> More
+			</a>
+		 </span> 
+		<div class="showcat">
+			{% for category in post.categories %}
+			<a class="btn btn-sm btn-danger mb-1" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">
+				{{ category }}
+			</a>
+			{% endfor %}
+		</div>
+	</div>
+		<a href="{{site.baseurl}}{{post.url}}"></a>
+</div>

@@ -13,11 +13,24 @@ layout: default
 
 <div class="row g-5 mb-5">
 	<div class="col-md-12">
+		<section class="mt-4 mb-5">		
+			
+			<div class="container-fluid">	
+				<div class="card-columns">        
+					{% for post in paginator.posts reversed  limit:3 %}
+						{% include card-post.html %}
+					{% endfor %}            
+				</div>
+			</div>    
+		</section>
 	</div>
-	
+</div>
 
 
-	<!-- <h3 class="fw-bold border-bottom pb-3 mb-5">Recent Updates</h3>
+
+
+
+<!-- <h3 class="fw-bold border-bottom pb-3 mb-5">Recent Updates</h3>
 	{% for post in site.posts %}
 		<p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</p>
 	{% endfor %}
