@@ -6,11 +6,15 @@ a, a:link, a:visited, a:focus, a:hover, a:active{
 // ---------- Body Text ----------
 
 body {
+	margin: 0;
 	background: $bg-main;
 	font-family: $ff-body;
+	font-size: $fs-body;
 	font-weight: $fw-body;
 	line-height: $lh-body;
 	color: $fc-body;
+	-webkit-text-size-adjust: 100%;
+	-webkit-tap-highlight-color: transparent;
 }
 
 body a {
@@ -54,13 +58,17 @@ h6, .h6 {
 
 // ---------- Layout ----------
 
+* {
+	box-sizing: border-box;
+}
+
 .wrapper {
 	padding: 1rem;
 	margin-right: auto;
 	margin-left: auto;
 }
 
-@media (min-width: 768px){
+@media (min-width: $compress){
 	.wrapper {
 		width: 66.6%;
 		padding-top: 3rem;
@@ -68,7 +76,30 @@ h6, .h6 {
 	}
 }
 
+.rw-row {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin-bottom: 3rem;
+	margin-left: calc($gutter-x / -2);
+	margin-right: calc($gutter-x / -2);
+	margin-top: calc($gutter-y / -1);
+}
 
+.rw-row > * {
+	flex-grow: 1;
+	width: 100%;
+	max-width: 100%;
+	padding-left: $gutter-x;
+	padding-right: $gutter-x;
+	margin-top: $gutter-y;
+}
+
+@media ( min-width: $compress) {
+	.rw-row {
+		flex-wrap: nowrap;
+	}
+}
 
 // ---------- Site Header ----------
 
@@ -343,12 +374,6 @@ img,
 
 // ---------- Recent Work ----------
 
-.container-fluid {
-	width:94%;
-	margin:0px auto;
-	max-width: 94%;
-}
-
 .card-columns .card {
 	margin-left: auto;
 	margin-right: auto;
@@ -356,15 +381,13 @@ img,
 	max-width: 75%
 }
 
-@media (min-width: 775px) {		/* 576px */
+@media (min-width: $compress) {		/* 576px */
 	/* line 256, node_modules/bootstrap/scss/_card.scss */
 	.card-columns {
 		-webkit-column-count: 3;
 		column-count: 3;
 		-webkit-column-gap: .5rem;
 		column-gap: .5rem;
-		orphans: 1;
-		widows: 1;
 	}
 	/* line 267, node_modules/bootstrap/scss/_card.scss */
 	.card-columns .card {
@@ -445,7 +468,7 @@ img,
 // 	padding-left: 1.5;
 // }
 
-// @media (min-width: 775px) {
+// @media (min-width: $compress) {
 // 	.site-header {
 // 		flex-direction: row;
 // 	}
