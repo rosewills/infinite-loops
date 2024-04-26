@@ -4,20 +4,14 @@ layout: default
 
 <div class="rw-row">
 	<div class="rw-col">
-		{{ content }}
-	</div>
-	<div class="rw-col">
-		<img src="{{ site.baseurl }}/assets/images/oreo-teddy.jpg" alt="Home" width="50%">
-	</div>
-</div>
-
-<div class="rw-row">
-	<div class="rw-col">
 		<div class="title mini">Recent Work</div>
 		<div class="card-columns">        
 			{% for post in paginator.posts  limit:3 %}
-				{% include card-post.html %}
+			{% include card-post.html %}
 			{% endfor %}            
 		</div>
+		
 	</div>
 </div>
+
+{% include about.html %}

@@ -72,8 +72,12 @@ h6, .h6 {
 	.wrapper {
 		width: 66.6%;
 		padding-top: 3rem;
-		padding-bottom: 3rem;
+		padding-bottom: 3rem;		
 	}
+}
+
+#wide {
+	width: 90%;
 }
 
 .rw-row {
@@ -81,9 +85,12 @@ h6, .h6 {
 	flex-direction: row;
 	flex-wrap: wrap;
 	margin-bottom: 3rem;
-	margin-left: calc($gutter-x / -2);
-	margin-right: calc($gutter-x / -2);
-	margin-top: calc($gutter-y / -1);
+	margin-left: $gutter-x;
+	margin-right: $gutter-x;
+	margin-top: $gutter-y;
+	// margin-left: calc($gutter-x / -2);
+	// margin-right: calc($gutter-x / -2);
+	// margin-top: calc($gutter-y / -1);
 }
 
 .rw-row > * {
@@ -95,11 +102,34 @@ h6, .h6 {
 	margin-top: $gutter-y;
 }
 
+.about {
+	align-content: center;
+	margin-top: calc($gutter-y / 2)
+}
+
+.about img {
+	object-fit: contain;
+	max-width: 100%;
+}
+
 @media ( min-width: $compress) {
+	.about.desc {
+		padding-right: 1.5em;
+	}
+	.about.pic {
+		max-width: 45%;
+		padding-left: 1.5em;
+		padding-bottom: 1em;
+	}
+	.about img {
+		margin-top: unset;
+		margin-bottom: unset;
+	}
 	.rw-row {
 		flex-wrap: nowrap;
 	}
 }
+
 
 // ---------- Site Header ----------
 
@@ -313,7 +343,7 @@ img,
 // ---------- Lists ----------
 .list {
 	tr {
-		border-bottom: 1px solid $fc-fade;
+		border-bottom: 1px dashed $fc-divider;
 	}
 }
 
