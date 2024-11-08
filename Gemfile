@@ -6,4 +6,5 @@ gem 'jekyll-archives'
 gem 'jekyll-sitemap'
 gem 'jekyll-paginate'
 gem 'jekyll-postfiles'
+gem 'jekyll-webp'
 gemspec

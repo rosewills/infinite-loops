@@ -8,8 +8,8 @@ author: Rosemary Wills
 categories: science-writing
 tags:
   - aso
-cover: aso-articles/xmas-lights.jpg
-preview: aso-articles/xmas-lights.jpg
+cover: aso-articles/xmas-lights.webp
+preview: aso-articles/xmas-lights.webp
 cover-alt:
 published: true
 source: Athens Science Observer
@@ -24,7 +24,7 @@ Christmas lights spend all year in a stationary box. How do they manage to arran
 Seeking to unravel the mystery of self-tangling headphones, charger cables, and bedhead, [physicists from the University of California at San Deigo](https://www.ncbi.nlm.nih.gov/pubmed/17911269) placed strings of various lengths and stiffness in a box, shook it around, and studied the number of knots that formed. Their simple experiment proved enlightening.
 
 
-[![xmas-lights.jpg]({{ site.baseurl }}/assets/images/aso-articles/xmas-lights.jpg)]({{ site.baseurl }}/assets/images/aso-articles/xmas-lights.jpg)
+[![xmas-lights.jpg]({{ site.baseurl }}/assets/images/aso-articles/xmas-lights.webp)]({{ site.baseurl }}/assets/images/aso-articles/xmas-lights.webp)
 <span class="credit">Image credit: <a href="https://unsplash.com/@thalia_s_ruiz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Thalia Ruiz</a> via <a href="https://unsplash.com/photos/turned-on-string-lights-lHu6SF2Uar0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> (<a href="https://unsplash.com/license">License</a>)</span>
   
 

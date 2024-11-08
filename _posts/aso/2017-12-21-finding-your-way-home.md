@@ -8,8 +8,8 @@ author: Rosemary Wills
 categories: science-writing
 tags:
   - aso
-cover: aso-articles/snow-road.jpg
-preview: aso-articles/snow-road.jpg
+cover: aso-articles/snow-road.webp
+preview: aso-articles/snow-road.webp
 cover-alt:
 published: true
 source: Athens Science Observer
@@ -20,7 +20,7 @@ ready: true
 They say there's [no place like home for the holidays](https://en.wikipedia.org/wiki/Home_for_the_Holidays_(song))... but how do you get there? If you're a [bird](http://www.ks.uiuc.edu/Research/cryptochrome/), [turtle](http://jeb.biologists.org/content/155/1/37), [lobster](https://www.nature.com/articles/nature01226), or even a [bacteria](https://www.ncbi.nlm.nih.gov/pubmed/170679), chances are you'll be relying on the [earth's magnetic field](https://en.wikipedia.org/wiki/Earth%27s_magnetic_field).
 
 
-[![snow-road.jpg]({{ site.baseurl }}/assets/images/aso-articles/snow-road.jpg)]({{ site.baseurl }}/assets/images/aso-articles/snow-road.jpg)
+[![snow-road.jpg]({{ site.baseurl }}/assets/images/aso-articles/snow-road.webp)]({{ site.baseurl }}/assets/images/aso-articles/snow-road.webp)
 <span class="credit">Image credit: <a href="https://www.flickr.com/photos/moomoo/">Marilyn M.</a> via <a href="https://www.flickr.com/photos/moomoo/3151338464/">Flickr</a> (<a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>)</span>
 
 

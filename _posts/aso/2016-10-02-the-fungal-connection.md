@@ -8,8 +8,8 @@ author: Rosemary Wills
 categories: science-writing
 tags:
   - aso
-cover: aso-articles/fly-agaric-cover.jpg
-preview: aso-articles/fly-agaric.jpg
+cover: aso-articles/fly-agaric-cover.webp
+preview: aso-articles/fly-agaric.webp
 cover-alt: 
 published: true
 source: Athens Science Observer
@@ -24,7 +24,7 @@ Contrary to assumptions of 19th-century botanists, fungi aren’t just odd, leaf
 The logical way to obtain those vital carbs, at least to most other [heterotrophs](https://en.wikipedia.org/wiki/Heterotroph) (humans included), is to consume organic matter (i.e. eat a salad). [But while this is certainly](https://en.wikipedia.org/wiki/Plant_pathology#Fungi) [a popular option](http://plantpath.caes.uga.edu/extension/documents/fungikey.pdf), some fungi opt for a more diplomatic approach. These mycorrhizal fungi propose a trade, offering their hard-earned minerals in exchange for some of the plant's precious sugars.
 
 
-[![fly-agaric.jpg]({{ site.baseurl }}/assets/images/aso-articles/fly-agaric.jpg)]({{ site.baseurl }}/assets/images/aso-articles/fly-agaric.jpg)
+[![fly-agaric.jpg]({{ site.baseurl }}/assets/images/aso-articles/fly-agaric.webp)]({{ site.baseurl }}/assets/images/aso-articles/fly-agaric.webp)
 <span class="caption">The mold that spoiled your tomato sandwich might be the same one that grew it.</span>
 <span class="credit">Image credit: <a href="https://www.flickr.com/photos/nickpix2008/">Nick Ford</a> via <a href="https://www.flickr.com/photos/nickpix2008/6303184406/">Flickr</a> (<a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>)</span>
 
@@ -35,7 +35,7 @@ The problem is, plants can only take up these minerals in through cells at the v
 
 In this way, nature's [symbiotic](https://www.athensscienceobserver.com/2015/08/04/best-friends-for-life-the-remarkable-and-delicate-world-of-symbiosis/) dream team thrives. Of all known plants on earth, as many as [90% rely on mycorrhizal aid](http://sciweb.nybg.org/science2/hcol/mycorrhizae.asp.html), receiving up to [80% of their nitrogen and 75% of their phosphorous](http://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2007.01139.x/abstract) from their microscopic sidekicks. Most plants are equally generous, [paying out more than a fifth](http://www.the-compost-gardener.com/plant-fungi.html) of their own sugar production.
 
-[![mycelium.jpg]({{ site.baseurl }}/assets/images/aso-articles/mycelium.jpg)]({{ site.baseurl }}/assets/images/aso-articles/mycelium.jpg)
+[![mycelium.jpg]({{ site.baseurl }}/assets/images/aso-articles/mycelium.webp)]({{ site.baseurl }}/assets/images/aso-articles/mycelium.webp)
 <span class="caption">This friendship is as old as dirt – in fact, fungi may have allowed plats to colonize it.</span>
 <span class="credit">Image credit: <a href="https://www.flickr.com/photos/bushman_k/">Kirill Ignatyev</a> via <a href="https://www.flickr.com/photos/bushman_k/6177594429/">Flickr</a> (<a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY 2.0</a>)</span>
 

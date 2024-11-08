@@ -9,8 +9,8 @@ tags:
   - microbiology
   - seasonal
   - aso
-cover: aso-articles/snowflakes-on-handrail.jpg
-preview: aso-articles/snowflakes-on-handrail.jpg
+cover: aso-articles/snowflakes-on-handrail.webp
+preview: aso-articles/snowflakes-on-handrail.webp
 cover-alt: "ALT: snowflakes on a handrail."
 published: true
 source: Athens Science Observer
@@ -21,7 +21,7 @@ source-title: Frosty the Microbe - Athens Science Observer
 
 Little do we realize that these chilly abilities aren't limited to the realm of holiday lore. If a microbiologist were writing the legends, they'd call Jack Frost by his scientific name: *Pseudomonas syringae*. Known for generations as the artist who sprinkles leaves with glitter on crisp winter mornings and blankets the landscape with snow, they'd add that he also happens to be [about two and a half microns tall](https://apsjournals.apsnet.org/doi/pdf/10.1094/PHYTO.2003.93.10.1209), and a well-studied plant pathogen.
 
-[![snowflakes-on-handrail.jpg]({{ site.baseurl }}/assets/images/aso-articles/snowflakes-on-handrail.jpg)]({{ site.baseurl }}/assets/images/aso-articles/snowflakes-on-handrail.jpg)
+[![snowflakes-on-handrail.jpg]({{ site.baseurl }}/assets/images/aso-articles/snowflakes-on-handrail.webp)]({{ site.baseurl }}/assets/images/aso-articles/snowflakes-on-handrail.webp)
 <span class="credit">Image credit: Sara2 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Schneeflocken_in_Deutschland_-_20100102.jpg). Public Domain.</span>
 
 If you look closely at *P. syringae*'s ice powers - or Elsa's, for that matter - you'll discover they really aren't magic at all. They simply involve taking creative advantage of [ice nucleation](https://www.uniprot.org/keywords/KW-0387), and the fact that water can be super cool (*bear with me*).
@@ -33,7 +33,8 @@ Your local weatherman will tell you that water freezes into ice at 0℃ (or 32�
 [*P. syringae* has evolved](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC186742/) the perfect protein to serve as this template, making it one of the best ice nucleators on the planet. While most living things avoid freezing solid (with some [notable exceptions](https://www.athensscienceobserver.com/2017/12/18/frogsicles/)), ice is *P. syringae’s* secret weapon.
 
 But no icy hero gets famous by making plantcicles. Frosty the Microbe has another trick up its sleeve - one that [recent studies](https://www.ncbi.nlm.nih.gov/pubmed/24399753) suggest allows it (and other ice-nucleating bacteria) to play a significant role in global precipitation patterns.
-[![snowflake-macro-photography.jpg]({{ site.baseurl }}/assets/images/aso-articles/snowflake-macro-photography.jpg)]({{ site.baseurl }}/assets/images/aso-articles/snowflake-macro-photography.jpg)
+
+[![snowflake-macro-photography.jpg]({{ site.baseurl }}/assets/images/aso-articles/snowflake-macro-photography.webp)]({{ site.baseurl }}/assets/images/aso-articles/snowflake-macro-photography.webp)
 <span class="caption">A bacterial escape pod.</span>
 <span class="credit">Image credit: [Alexey Kljatov](https://commons.wikimedia.org/wiki/User:Alexey_Kljatov) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Snowflake_macro_photography_1.jpg). Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en).</span>
 

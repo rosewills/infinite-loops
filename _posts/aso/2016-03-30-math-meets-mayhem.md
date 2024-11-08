@@ -10,8 +10,8 @@ tags:
   - math
   - fractals
   - aso
-cover: aso-articles/fractal-plant.jpg
-preview: aso-articles/fractal-plant.jpg
+cover: aso-articles/fractal-plant.webp
+preview: aso-articles/fractal-plant.webp
 cover-alt:
 published: true
 source: Athens Science Observer
@@ -47,7 +47,7 @@ While their mysterious forms have perplexed us for centuries, their patterns are
 The word "fractal" means "fragmented" or "broken," but at their core fractals are all about unity. Though difficult to pin down, all share the same characteristic: simply repeat a single rule or pattern over and over, building each time on the existing structure. Cantor dust is a classic example, with its infinite repetitions of split, remove, and repeat.
 
 
-[![mandelbrotsquare.png]({{ site.baseurl }}/assets/images/aso-articles/mandelbrotsquare.png)]({{ site.baseurl }}/assets/images/aso-articles/mandelbrotsquare.png)
+[![mandelbrotsquare.png]({{ site.baseurl }}/assets/images/aso-articles/mandelbrotsquare.webp)]({{ site.baseurl }}/assets/images/aso-articles/mandelbrotsquare.webp)
 <span class="caption">The Mandelbrot Set.</span>
 <span class="credit">Image credit: <a href="https://www.flickr.com/photos/10912969@N03/">flickrnospam</a> via <a href="https://www.flickr.com/photos/10912969@N03/albums/72157603239511763/">Flickr</a> (<a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>)</span>
 
@@ -55,7 +55,7 @@ The word "fractal" means "fragmented" or "broken," but at their core fractals ar
 If mere repetition seems a bit boring, the photos at left may convince you otherwise. Zoomed out, this shape is just a furry asymmetrical blob (upper left). A closer look, however, reveals a dizzying variety of curls, swirls, and starbursts spilling from its edges. It seems only a master artist (and a slightly loopy one at that) could have created such an image, but the entire miniscule world is produced by just feeding and re-feeding numbers through the expression _f(z)=z²+c_. It doesn’t stop there- [you could zoom](https://www.youtube.com/watch?v=PD2XgQOyCCk) infinitely into any point near the border, and each frame would comprise a new twist on the same repeating cycle.
 
 
-[![leaf-veins.jpg]({{ site.baseurl }}/assets/images/aso-articles/leaf-veins.jpg)]({{ site.baseurl }}/assets/images/aso-articles/leaf-veins.jpg)
+[![leaf-veins.jpg]({{ site.baseurl }}/assets/images/aso-articles/leaf-veins.webp)]({{ site.baseurl }}/assets/images/aso-articles/leaf-veins.webp)
 <span class="credit">Image credit: <a href="https://www.flickr.com/photos/blair25/">Blair Wang</a> via <a href="https://www.flickr.com/photos/blair25/3295670277/">Flickr</a> (<a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>)</span>
 
 

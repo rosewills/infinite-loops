@@ -8,8 +8,8 @@ author: Rosemary Wills
 categories: science-writing
 tags:
   - aso
-cover: aso-articles/candy-canes.jpg
-preview: aso-articles/candy-canes.jpg
+cover: aso-articles/candy-canes.webp
+preview: aso-articles/candy-canes.webp
 cover-alt:
 published: true
 source: Athens Science Observer
@@ -26,7 +26,7 @@ Peppermint improves cognitive function.
 Your grade school teachers were right all along.
 
 
-[![candy-canes.jpg]({{ site.baseurl }}/assets/images/aso-articles/candy-canes.jpg)]({{ site.baseurl }}/assets/images/aso-articles/candy-canes.jpg)
+[![candy-canes.jpg]({{ site.baseurl }}/assets/images/aso-articles/candy-canes.webp)]({{ site.baseurl }}/assets/images/aso-articles/candy-canes.webp)
 <span class="credit">Image credit: <a href="https://www.flickr.com/photos/calliope/">Liz West</a> via <a href="https://www.flickr.com/photos/calliope/301480930/">Flickr</a> (<a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>)</span>
 
 

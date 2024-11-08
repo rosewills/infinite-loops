@@ -9,7 +9,7 @@ categories: science-writing
 tags:
   - aso
 cover:
-preview: aso-articles/xmas-sing.jpg
+preview: aso-articles/xmas-sing.webp
 cover-alt:
 published: true
 source: Athens Science Observer
@@ -20,7 +20,7 @@ ready: true
 Christmas music: it's hard to escape this time of year. Whether you love it or hate it, you've probably had a holiday tune or two echoing in your head lately. Turns out, psychologists have an official name for this phenomenon: Involuntary Musical Imagery (INMI). While less formal terms range from "sticky music" to "melodymania," songs that get stuck in our heads are usually referred to as earworms.
 
 
-[![xmas-sing.jpg]({{ site.baseurl }}/assets/images/aso-articles/xmas-sing.jpg)]({{ site.baseurl }}/assets/images/aso-articles/xmas-sing.jpg)
+[![xmas-sing.jpg]({{ site.baseurl }}/assets/images/aso-articles/xmas-sing.webp)]({{ site.baseurl }}/assets/images/aso-articles/xmas-sing.webp)
 <span class="credit">Image credit: <a href="https://www.flickr.com/photos/jamelah/">Jamelah E.</a> via <a href="https://www.flickr.com/photos/jamelah/2087706992/">Flickr</a> (<a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>)</span>
 
 
