@@ -22,7 +22,7 @@ It's the [50th anniversary](http://www.seussville.com/grinch50/) of the cave c
 But maybe Mr. Grinch's dream of a quiet Christmas isn't so ridiculous after all.
 
 
-[![grinch.jpg]({% link /assets/images/aso-articles/grinch.jpg %})](/assets/images/aso-articles/grinch.jpg)
+[![grinch.jpg]({{ site.baseurl }}/assets/images/aso-articles/grinch.jpg)]({{ site.baseurl }}/assets/images/aso-articles/grinch.jpg)
 <span class="credit">Image credit: <a href="https://www.flickr.com/photos/sackerman519/">Sarah Ackerman</a> via <a href="https://www.flickr.com/photos/sackerman519/8139519263/">Flickr</a> (<a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>)</span>
 
 
@@ -30,7 +30,7 @@ The holidays are perhaps the most aurally rich of all seasons, filled with carol
 
 Noise pollution is broadly described as ["unwanted or disturbing sound;"](https://www.epa.gov/clean-air-act-overview/title-iv-noise-pollution) the kind that jars you awake in the dead of night or interrupts a conversation with your best friend (or Santa). The complex relationship between sound and the human body is often underestimated, but in the words of Mr. Grinch himself, all this ["noise, noise, noise, noise, noise"](https://www.youtube.com/watch?v=KUg5UTC3x3A) has a very real impact on our health and well being.
 
-[![grinch-n-max.jpg]({% link /assets/images/aso-articles/grinch-n-max.jpg %})](/assets/images/aso-articles/grinch-n-max.jpg)
+[![grinch-n-max.jpg]({{ site.baseurl }}/assets/images/aso-articles/grinch-n-max.jpg)]({{ site.baseurl }}/assets/images/aso-articles/grinch-n-max.jpg)
 <span class="caption">For someone without ears, the Grinch has a lot to say about noise pollution.</span>
 <span class="credit">Image credit: <a href="https://www.flickr.com/photos/rosefirerising/">rosefirerising</a> via <a href="https://www.flickr.com/photos/rosefirerising/8311206150/">Flickr</a> (<a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>)</span>
 
@@ -38,7 +38,7 @@ Don't believe me? Say you're one of the few people looking forward to airplane f
 
 Ruining the meals of weary travelers trapped 30,000 ft. in the air is almost terrible enough to [warrant its own song](https://www.youtube.com/watch?v=27I3AN0XwP8), but it's only the beginning. Another airline-related study involves [German children living beneath the flight path of a new international airport](http://www.news.cornell.edu/stories/1998/03/airport-noise-harms-children-effects-endure): as jets began roaring daily over their heads, blood pressure and stress hormone levels rose as well, causing these kids to show significantly impaired quality of life compared with their peers in quieter areas. Growing up amid deafening noise harms a child's well being as surely as waking up to a stolen Christmas.
 
-[![headphone-bear.jpg]({% link /assets/images/aso-articles/headphone-bear.jpg %})](/assets/images/aso-articles/headphone-bear.jpg)
+[![headphone-bear.jpg]({{ site.baseurl }}/assets/images/aso-articles/headphone-bear.jpg)]({{ site.baseurl }}/assets/images/aso-articles/headphone-bear.jpg)
 <span class="credit">Image credit: <a href="https://pixabay.com/users/jankrajangfha-12624567/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4241386">Awassaya Sakornbut</a> via <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4241386">Pixabay</a> (<a href="https://pixabay.com/service/license-summary/">Pixabay Content License</a>)</span>
 
 
@@ -50,7 +50,7 @@ But if Christmastime in the city has you longing for a silent night, there is st
 
 In fact, many "green" practices tend to be sound-friendly as well, from habits as simple as turning off the TV when you're not using it to switching to [solar energy](http://www.ei.lehigh.edu/learners/energy/impacts2.html), which is totally silent. Even [planting trees](http://www.buzzle.com/articles/noise-pollution-solutions.html) can be an effective way to muffle noisy roads or nearby industry. The Grinch (being green himself) would definitely approve.
 
-[![sound-lake.jpg]({% link /assets/images/aso-articles/sound-lake.jpg %})](/assets/images/aso-articles/sound-lake.jpg)
+[![sound-lake.jpg]({{ site.baseurl }}/assets/images/aso-articles/sound-lake.jpg)]({{ site.baseurl }}/assets/images/aso-articles/sound-lake.jpg)
 <span class="credit">Image credit: <a href="https://www.flickr.com/photos/julphotos/">Giulio Nesi</a> via <a href="https://www.flickr.com/photos/julphotos/">Flickr</a> (<a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>)</span>
 
 

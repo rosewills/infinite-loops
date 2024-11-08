@@ -19,7 +19,7 @@ source-title: A Computer-Generated Christmas Carol - 12 Days of ASO Christmas
 Step aside, [Bing Crosby](https://en.wikipedia.org/wiki/Merry_Christmas_(Bing_Crosby_album)). Computer scientists from the University of Toronto have created a program capable of composing a song to accompany any photo, using a technique they call "[neural karaoke.](https://www.utoronto.ca/news/have-yourself-ai-xmas-u-t-computer-science-researchers-create-neural-karaoke)" In the spirit of the holidays, they decided to feed their program a Christmas-y image of gifts under a tree.
 
 
-[![computer-ornament.jpg]({% link /assets/images/aso-articles/computer-ornament.jpg %})](/assets/images/aso-articles/computer-ornament.jpg)
+[![computer-ornament.jpg]({{ site.baseurl }}/assets/images/aso-articles/computer-ornament.jpg)]({{ site.baseurl }}/assets/images/aso-articles/computer-ornament.jpg)
 <span class="credit">Image credit: <a href="https://www.flickr.com/photos/mrlerone/">Toby Bradbury</a> via <a href="https://www.flickr.com/photos/mrlerone/5281806314/">Flickr</a>(<a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>)</span>
 
 

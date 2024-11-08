@@ -20,7 +20,7 @@ ready: true
 Every time I hear the phrase, "I'm not a math person," I imagine that deep in the heart of college campuses and libraries across the world, there dwells a mysterious creature who spends their days scribbling complex calculations on napkins (or [windows](https://youtu.be/tvO_78fajxY?t=5m46s)). The math person is closely related to the equally-elusive _science person_, known for waxing poetic about [CRISPR](https://en.wikipedia.org/wiki/CRISPR), [levitrons](http://www.ecm.ub.es/~toni/Eur_J_Phys_Geim.pdf), or [psycholinguistic hemispheric incongruity](https://www.tandfonline.com/doi/abs/10.1080/1357650X.2016.1146292). Meanwhile, a growing subspecies of _tech people_ dream in binary and give presentations in which all the equipment in the room magically works.
 
 
-[![math-homework.jpg]({% link /assets/images/aso-articles/math-homework.jpg %})](/assets/images/aso-articles/math-homework.jpg)
+[![math-homework.jpg]({{ site.baseurl }}/assets/images/aso-articles/math-homework.jpg)]({{ site.baseurl }}/assets/images/aso-articles/math-homework.jpg)
 <span class="credit">Image credit: <a href="https://unsplash.com/@mrthetrain?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Joshua Hoehne</a> via <a href="https://unsplash.com/photos/woman-in-blue-denim-jacket-holding-white-paper-AZrBFoXP_3I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> (<a href="https://unsplash.com/license">License</a>)</span>
 
 
@@ -32,7 +32,7 @@ But like anything involving brains, the reality is much more complex. Your two h
 
 Unfortunately, we seem to have collectively internalized the idea that the nature of our brains can predetermine success in challenging areas, leading many to disqualify themselves from STEM-related subjects far too quickly. Challenges and failures become evidence of inherent deficiency, rather than the inevitable part of science they are.
 
-[![math-problems.jpg]({% link /assets/images/aso-articles/math-problems.jpg %})](/assets/images/aso-articles/math-problems.jpg)
+[![math-problems.jpg]({{ site.baseurl }}/assets/images/aso-articles/math-problems.jpg)]({{ site.baseurl }}/assets/images/aso-articles/math-problems.jpg)
 <span class="credit">Image credit: <a href="https://unsplash.com/@chrisliverani?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Chris Liverani</a> via <a href="https://unsplash.com/photos/red-pencil-on-top-of-mathematical-quiz-paper-rD2dc_2S3i0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> (<a href="https://unsplash.com/license">License</a>)</span>
 
 
@@ -44,7 +44,7 @@ From this perspective, struggling with math, science, or technology actually con
 
 Failure has such a bad rap that it's somehow easier to condemn ourselves as "bad" at challenging subjects than to press on. But science and math, after all, are about pushing the boundaries of our knowledge- and that means giving ourselves space to get it wrong. In the wise words of Mythbuster Adam Savage, "failure is _always_ an option."
 
-[![science-kids.jpg]({% link /assets/images/aso-articles/science-kids.jpg %})](/assets/images/aso-articles/science-kids.jpg)
+[![science-kids.jpg]({{ site.baseurl }}/assets/images/aso-articles/science-kids.jpg)]({{ site.baseurl }}/assets/images/aso-articles/science-kids.jpg)
 <span class="credit">Image credit: <a href="https://www.flickr.com/photos/oistedu/">Children's School of Science 2012</a> via <a href="https://www.flickr.com/photos/oistedu/33211768064/">Flickr</a> (<a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>)</span>
 
 

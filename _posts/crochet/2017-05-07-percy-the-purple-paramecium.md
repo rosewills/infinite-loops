@@ -19,17 +19,17 @@ ready: true
 This is Percy.  
   
 
-[![paramecium.jpg]({% link /assets/images/blog/paramecium/paramecium.jpg %})](/assets/images/blog/paramecium/paramecium.jpg)
+[![paramecium.jpg]({{ site.baseurl }}/assets/images/blog/paramecium/paramecium.jpg)]({{ site.baseurl }}/assets/images/blog/paramecium/paramecium.jpg)
 
   
 Percy is a paramecium.  
   
 
-[![paramecium-guide.jpg]({% link /assets/images/blog/paramecium/paramecium-guide.jpg %})](/assets/images/blog/paramecium/paramecium-guide.jpg)
+[![paramecium-guide.jpg]({{ site.baseurl }}/assets/images/blog/paramecium/paramecium-guide.jpg)]({{ site.baseurl }}/assets/images/blog/paramecium/paramecium-guide.jpg)
 
   
 As a paramecium, he is an [excellent model organism](https://en.wikipedia.org/wiki/Paramecium).  
   
 
-[![coverslip.jpg]({% link /assets/images/blog/paramecium/coverslip.jpg %})](/assets/images/blog/paramecium/coverslip.jpg)
+[![coverslip.jpg]({{ site.baseurl }}/assets/images/blog/paramecium/coverslip.jpg)]({{ site.baseurl }}/assets/images/blog/paramecium/coverslip.jpg)
 <span class="caption">not photoshopped, I promise.</span>

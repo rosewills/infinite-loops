@@ -20,7 +20,7 @@ ready: true
 When I was very little, I asked my dad how long it would take to get from Earth to the Sun.
 
 
-[![rw-horizon.jpg]({% link /assets/images/aso-articles/rw-horizon.jpg %})](/assets/images/aso-articles/rw-horizon.jpg)
+[![rw-horizon.jpg]({{ site.baseurl }}/assets/images/aso-articles/rw-horizon.jpg)]({{ site.baseurl }}/assets/images/aso-articles/rw-horizon.jpg)
 <span class="credit">Image credit: Rosemary Wills</span>
 
 
@@ -31,7 +31,7 @@ I was awe-struck. That's eight light-minutes. That's 120,000 trips to Gram and P
 Our own humble moon may be a mere 239,000 miles away, but from our Earthly vantage point, it'll soon be in the perfect position to perform one of its most awe-inspiring tricks. Passing directly in front of our favorite star, it will drown out all stellar light save for an otherworldly halo of plasma called the corona, and send a circle of mid-day darkness gliding across the country.
 
 
-[![airplane.jpg]({% link /assets/images/aso-articles/airplane.jpg %})](/assets/images/aso-articles/airplane.jpg)
+[![airplane.jpg]({{ site.baseurl }}/assets/images/aso-articles/airplane.jpg)]({{ site.baseurl }}/assets/images/aso-articles/airplane.jpg)
 <span class="caption">Airplanes are an excellent source of awe.</span>
 <span class="credit">Image credit: Rosemary Wills</span>
 
@@ -43,7 +43,7 @@ While scientists, like four-year-olds, are in a particularly lucky position to e
 However, [where words fall short](https://youtu.be/LTX51OzGndw?t=39s), biochemistry speaks. [A recent study](https://www.ncbi.nlm.nih.gov/pubmed/25603133) compared levels of inflammatory cytokines (implicated in ailments like diabetes, heart disease, and depression) to positive emotions such as joy, pride, and contentment; while all these positive emotions correlated to lower cytokine levels, awe had the lowest readings of all.
 
 
-[![lightning.jpg]({% link /assets/images/aso-articles/lightning.jpg %})](/assets/images/aso-articles/lightning.jpg)
+[![lightning.jpg]({{ site.baseurl }}/assets/images/aso-articles/lightning.jpg)]({{ site.baseurl }}/assets/images/aso-articles/lightning.jpg)
 <span class="credit">Image credit: <a href="https://unsplash.com/@micahtindell?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Micah Tindell</a> via <a href="https://unsplash.com/photos/silhouette-of-mountain-under-cloudy-sky-during-daytime-AdOeV-qlAs4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> (<a href="https://unsplash.com/license">License</a>)</span>
 
   
@@ -63,7 +63,7 @@ In other words, awe-inspiring moments [don't just make us feel insignificant or
 So may the coming eclipse be an opportunity to share an awesome moment with a whole community of fellow onlookers. We live in truly awe-inspiring times- and we don't even have to wait until nighttime.
 
 
-[![waterfall.jpg]({% link /assets/images/aso-articles/waterfall.jpg %})](/assets/images/aso-articles/waterfall.jpg)
+[![waterfall.jpg]({{ site.baseurl }}/assets/images/aso-articles/waterfall.jpg)]({{ site.baseurl }}/assets/images/aso-articles/waterfall.jpg)
 <span class="caption">Fall Creek Falls, TN</span>
 <span class="credit">Image credit: Rosemary Wills</span>
 

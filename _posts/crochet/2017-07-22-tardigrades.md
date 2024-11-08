@@ -21,7 +21,7 @@ A water bear!
 
 It looks like this:
 
-[![tardigrade-wikicommons.jpg]({% link /assets/images/blog/tardigrade/tardigrade-wikicommons.jpg %})](/assets/images/blog/tardigrade/tardigrade-wikicommons.jpg)
+[![tardigrade-wikicommons.jpg]({{ site.baseurl }}/assets/images/blog/tardigrade/tardigrade-wikicommons.jpg)]({{ site.baseurl }}/assets/images/blog/tardigrade/tardigrade-wikicommons.jpg)
 <span class="credit">Image credit: Willow Gabriel, Goldstein Lab via <a href="https://commons.wikimedia.org/wiki/File:Hypsibiusdujardini.jpg">Wikimedia Commons</a> (<a href="https://creativecommons.org/licenses/by-sa/2.5/deed.en">CC BY-SA 2.5</a>)</span>
 
 I know what you're thinking:
@@ -31,7 +31,7 @@ _That is the most adorable creature I have ever laid eyes on._
 I totally agree!
 
 
-[![tardigrade-wikicommons2.jpg]({% link /assets/images/blog/tardigrade/tardigrade-wikicommons2.jpg %})](/assets/images/blog/tardigrade/tardigrade-wikicommons2.jpg)
+[![tardigrade-wikicommons2.jpg]({{ site.baseurl }}/assets/images/blog/tardigrade/tardigrade-wikicommons2.jpg)]({{ site.baseurl }}/assets/images/blog/tardigrade/tardigrade-wikicommons2.jpg)
 <span class="caption">look at the beady little eyes!</span>
 <span class="credit">Image credit: Frank Fox via <a href="https://commons.wikimedia.org/wiki/File:Mikrofoto.de-Baertierchen3.jpg">Wikimedia Commons</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.en">CC BY-SA 3.0</a>)</span>
 
@@ -41,7 +41,7 @@ While they're officially called **tardigrades** (latin for "slow stepper," refer
 _IN THE VACUUM OF OUTER SPACE._
 
 
-[![under-microscope.jpg]({% link /assets/images/blog/tardigrade/under-microscope.jpg %})](/assets/images/blog/tardigrade/under-microscope.jpg)
+[![under-microscope.jpg]({{ site.baseurl }}/assets/images/blog/tardigrade/under-microscope.jpg)]({{ site.baseurl }}/assets/images/blog/tardigrade/under-microscope.jpg)
 <span class="caption">water bear under the microscope, presumably after lunch</span>
 <span class="caption">(arrow points to stomach full of moss salad)</span>
 <span class="credit">Image credit: DSparrow14 via <a href="https://commons.wikimedia.org/wiki/File:Tardigrade_under_microscope.jpg">Wikimedia Commons</a> (<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>)</span>
@@ -58,25 +58,25 @@ Needless to say, here on Earth they can live pretty much wherever they please. T
 If you happen to have a mossy tree and a microscope nearby, you can [see them for yourself](https://www.youtube.com/watch?v=ZuxwisK-8f8)... or you can just crochet one.
 
 
-[![sewing.jpg]({% link /assets/images/blog/tardigrade/sewing.jpg %})](/assets/images/blog/tardigrade/sewing.jpg)
+[![sewing.jpg]({{ site.baseurl }}/assets/images/blog/tardigrade/sewing.jpg)]({{ site.baseurl }}/assets/images/blog/tardigrade/sewing.jpg)
 <span class="caption">sewing on the tardi-legs.</span>
 
 
 This little guy's legs aren't quite anatomically correct- real tardigrade legs point downward instead of to the side. However, just like his real-life counterparts, he can survive being nuked: I made him using cotton yarn, because in addition to being soft and snuggly, you can microwave it no sweat<a href="#fn1" id="ref1" title="{{ fn1 }}" class="fn-inline">{{ fi1 }}</a>.
 
 
-[![rice.jpg]({% link /assets/images/blog/tardigrade/rice.jpg %})](/assets/images/blog/tardigrade/rice.jpg)
+[![rice.jpg]({{ site.baseurl }}/assets/images/blog/tardigrade/rice.jpg)]({{ site.baseurl }}/assets/images/blog/tardigrade/rice.jpg)
 <span class="caption">[This brand of yarn](http://www.joann.com/lily-sugar-n-cream-scents-yarn/10822146.html) happens to be lavender-scented. I didn't realize this until my room began to smell like a febreeze commercial.</span>
 
 
 Just fill him up with dry rice, microwave him for 30 seconds or so, and you've got yourself a nice little tardigrade hand warmer!
 
 
-[![finished1.jpg]({% link /assets/images/blog/tardigrade/finished1.jpg %})](/assets/images/blog/tardigrade/finished1.jpg)
+[![finished1.jpg]({{ site.baseurl }}/assets/images/blog/tardigrade/finished1.jpg)]({{ site.baseurl }}/assets/images/blog/tardigrade/finished1.jpg)
 
 
 
-[![finished2.jpg]({% link /assets/images/blog/tardigrade/finished2.jpg %})](/assets/images/blog/tardigrade/finished2.jpg)
+[![finished2.jpg]({{ site.baseurl }}/assets/images/blog/tardigrade/finished2.jpg)]({{ site.baseurl }}/assets/images/blog/tardigrade/finished2.jpg)
 
 
 _D'aww._

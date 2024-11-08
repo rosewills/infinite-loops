@@ -26,7 +26,7 @@ Sugar makes kids hyper.
 The sugar-hyperactivity connection is not supported by science.
 
 
-[![xmas-cookies.jpg]({% link /assets/images/aso-articles/xmas-cookies.jpg %})](/assets/images/aso-articles/xmas-cookies.jpg)
+[![xmas-cookies.jpg]({{ site.baseurl }}/assets/images/aso-articles/xmas-cookies.jpg)]({{ site.baseurl }}/assets/images/aso-articles/xmas-cookies.jpg)
 <span class="credit">Image credit: <a href="https://www.flickr.com/photos/joshpuetz/">Josh Puetz</a> via <a href="https://www.flickr.com/photos/joshpuetz/11499351776/">Flickr</a> (<a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>)</span>
 
 

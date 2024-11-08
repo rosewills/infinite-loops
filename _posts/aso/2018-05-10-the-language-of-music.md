@@ -23,17 +23,17 @@ Yet despite our collective obsession with music, the phenomenon remains as myste
 
 Yet those who devote their life to the creation and study of music know our melodies run deeper than mere misplaced instincts. An ever-growing body of scientific research is echoing what they've understood all along- and making the idea of music as non-caloric, neurological dessert harder and harder to swallow.
 
-[![guitar.jpg]({% link /assets/images/aso-articles/guitar.jpg %})](/assets/images/aso-articles/guitar.jpg)
+[![guitar.jpg]({{ site.baseurl }}/assets/images/aso-articles/guitar.jpg)]({{ site.baseurl }}/assets/images/aso-articles/guitar.jpg)
 <span class="caption">Playing the guitar.</span><span class="credit">Image credit: <a href="https://www.flickr.com/photos/i-rocksteady/">Risa Ikeda</a> via <a href="https://www.flickr.com/photos/i-rocksteady/5106991146/">Flickr</a> (<a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>)</span>
 
 
-One of the most celebrated aspects of music, for example, is its ability to communicate emotion, acting almost as a language of feelings rather than words. Psychologists have found music to facilitate everything from the development of [empathy in young children](http://journals.sagepub.com/doi/abs/10.1177/0305735612440609) to feelings of [social cohesion](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4021113/) and [altruism](https://www.frontiersin.org/articles/10.3389/fpsyg.2014.01215/full#B47) [between strangers](https://link.springer.com/article/10.1007/s12144-014-9273-y). [One study](http://journals.sagepub.com/doi/abs/10.1177/0305735611430433) highlighted music's role as an "[empathetic friend,](https://www.music.ox.ac.uk/assets/Cultural-Value-Music-Empathy-Final-Report.pdf)" noting a tendency to reach for songs that echo our feelings in times of grief or heartache.
+One of the most celebrated aspects of music, for example, is its ability to communicate emotion, acting almost as a language of feelings rather than words. Psychologists have found music to facilitate everything from the development of [empathy in young children](http://journals.sagepub.com/doi/abs/10.1177/0305735612440609) to feelings of [social cohesion](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4021113/) and [altruism](https://www.frontiersin.org/articles/10.3389/fpsyg.2014.01215/full#B47) [between strangers](https://link.springer.com/article/10.1007/s12144-014-9273-y). [One study](http://journals.sagepub.com/doi/abs/10.1177/0305735611430433) highlighted music's role as an "[empathetic friend,](https://www.music.ox.ac.uk{{ site.baseurl }}/assets/Cultural-Value-Music-Empathy-Final-Report.pdf)" noting a tendency to reach for songs that echo our feelings in times of grief or heartache.
 
 Given music's way of pulling us together, it's not surprising that [oxytocin](https://www.ncbi.nlm.nih.gov/pubmed/19583647), a neurotransmitter famous for its role in bonding between humans, floods our systems when we sing, play, or listen to music. In fact, listening to music causes areas of the brain associated with [theory of mind](https://en.wikipedia.org/wiki/Theory_of_mind) (the ability to place oneself in another's shoes) to [light up on fMRI scans](https://www.ncbi.nlm.nih.gov/pubmed/18603608).
 
 These scans include an important caveat: if we are told a computer composed the song, the same region remains dark. In other words, _humanity_ is an essential component of our musicality.
 
-[![dancing-dolls.jpg]({% link /assets/images/aso-articles/dancing-dolls.jpg %})](/assets/images/aso-articles/dancing-dolls.jpg)
+[![dancing-dolls.jpg]({{ site.baseurl }}/assets/images/aso-articles/dancing-dolls.jpg)]({{ site.baseurl }}/assets/images/aso-articles/dancing-dolls.jpg)
 <span class="credit">Image credit: <a href="https://www.flickr.com/photos/johnpaulrobinson/">JP</a> via <a href="https://www.flickr.com/photos/johnpaulrobinson/5259884650/">Flickr</a> (<a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>)</span>
 
 
@@ -45,7 +45,7 @@ In this sense, EMI touches on a deeper side to music's communicative capabilitie
 
 Perhaps that's why the songs we weave into our cultural lives- from rock to folk to hymns to hip hop- carry so much of our heritage. Words on paper may provide records of the thoughts and ideas of those who came before us, but as songs are played and replayed, remixed and embellished upon, we make pieces of their creative identity our own.
 
-[![orchestra.jpg]({% link /assets/images/aso-articles/orchestra.jpg %})](/assets/images/aso-articles/orchestra.jpg)
+[![orchestra.jpg]({{ site.baseurl }}/assets/images/aso-articles/orchestra.jpg)]({{ site.baseurl }}/assets/images/aso-articles/orchestra.jpg)
 <span class="credit">Image credit: <a href="https://www.flickr.com/photos/lewiselementary/">Meriwether Lewis Elementary School</a> via <a href="https://www.flickr.com/photos/lewiselementary/8842561548/">Flickr</a> (<a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>)</span>
 
 

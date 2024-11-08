@@ -19,7 +19,7 @@ source-title: '"Happy Accidents:" Your Brain on Mistakes'
 Everyone makes mistakes. Maybe you left popcorn in the microwave too long, or wrote the wrong date on important paperwork. Maybe you asked a friend what kind of cake he wants for his surprise party, or mistook Miracle Whip for marshmallow fluff (I will _never_ live this one down).
 
 
-[![microwave.jpg]({% link /assets/images/aso-articles/microwave.jpg %})](/assets/images/aso-articles/microwave.jpg)
+[![microwave.jpg]({{ site.baseurl }}/assets/images/aso-articles/microwave.jpg)]({{ site.baseurl }}/assets/images/aso-articles/microwave.jpg)
 <span class="credit">Image credit: Rosemary Wills</span>
 
 
@@ -30,7 +30,7 @@ Say you're at the grocery store when you spot your good friend Max. You call his
 Within [80-150 milliseconds](https://link.springer.com/referenceworkentry/10.1007%2F978-1-4419-1698-3_724), your brain has already registered your error. If you happen to be hooked to an [electroencephalograph](https://en.wikipedia.org/wiki/Electroencephalography) (EEG) monitoring the electricity in your brain, you'd see a spike of negative activity appropriately termed Error-Related Negativity (ERN), more accurately known as the "[oh crap response.](http://abcnews.go.com/Technology/raise-iq-mind-set-matters-psychologists/story?id=14668170)"
 
 
-[![cake.jpg]({% link /assets/images/aso-articles/cake.jpg %})](/assets/images/aso-articles/cake.jpg)
+[![cake.jpg]({{ site.baseurl }}/assets/images/aso-articles/cake.jpg)]({{ site.baseurl }}/assets/images/aso-articles/cake.jpg)
 <span class="credit">Image credit: Rosemary Wills</span>
 
 
@@ -47,7 +47,7 @@ We often assume that strong negative reactions to our mistakes make us less pron
 On the other hand, people who trust their ability to improve despite their flaws possess a "growth mindset." Those with more of a Bob Ross-mentality, who don't fret over their mistakes, are free to focus their energies on examining and redeeming their failures (_er_, "happy accidents").
 
 
-[![flowerpot.jpg]({% link /assets/images/aso-articles/flowerpot.jpg %})](/assets/images/aso-articles/flowerpot.jpg)
+[![flowerpot.jpg]({{ site.baseurl }}/assets/images/aso-articles/flowerpot.jpg)]({{ site.baseurl }}/assets/images/aso-articles/flowerpot.jpg)
 <span class="credit">Image credit: Rosemary Wills</span>
 
 
@@ -56,7 +56,7 @@ The growth mindset allows us not only to bounce back from our own errors, but to
 "What is important is the motivation," says [Dr. Carol Dweck](http://news.stanford.edu/news/2007/february7/dweck-020707.html), [who](https://books.google.com/books/about/Motivation_and_Self_Regulation_Across_th.html?id=MZIGVkaHsKgC) [has](https://books.google.com/books?id=P0Mccblm6eUC&dq=Dweck,+C.+S.+(1999).+Self-theories:+Their+role+in+motivation,+personality+and+development.&lr=&source=gbs_navlinks_s) [spent](http://ed.ted.com/on/QcQdQHy0) [years](https://books.google.com/books/about/Mindset.html?id=fdjqz0TPL2wC) studying the effects of a [growth mindset](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve) in both adults and children. Dweck recalls one child who settled for being a "troublemaker" when he didn't feel intelligent enough to be anything else; when he finally realized he wasn't locked to an IQ score, "he looked up with tears in his eyes, and he said, â€˜You mean I don't have to be dumb?'"
 
 
-[![broken-glass.jpg]({% link /assets/images/aso-articles/broken-glass.jpg %})](/assets/images/aso-articles/broken-glass.jpg)
+[![broken-glass.jpg]({{ site.baseurl }}/assets/images/aso-articles/broken-glass.jpg)]({{ site.baseurl }}/assets/images/aso-articles/broken-glass.jpg)
 <span class="credit">Image credit: <a href="https://unsplash.com/@martycanstay?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Steven Thompson</a> via <a href="https://unsplash.com/photos/a-bag-of-marijuana-on-a-table-goRkKhD8dU4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
    (<a href="https://unsplash.com/license">License</a>)</span>
 

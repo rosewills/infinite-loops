@@ -20,7 +20,7 @@ ready: true
 [Fur coats](https://en.wikipedia.org/wiki/Polar_bear) and thick layers of [blubber](https://en.wikipedia.org/wiki/Pinniped) might be the adaptational standards for icy climates. But when it comes to braving the frosty air, the humble [wood frog](https://en.wikipedia.org/wiki/Wood_frog) is simply too cool to be bothered. The unassuming little amphibian can be found from the Appalachian mountains all the way to Alaska, and depending on the season, you might find it swimming about, eating flies, or literally [frozen solid](https://news.nationalgeographic.com/news/2007/02/070220-frog-antifreeze.html).
 
 
-[![wood-frog.jpg]({% link /assets/images/aso-articles/wood-frog.jpg %})](/assets/images/aso-articles/wood-frog.jpg)
+[![wood-frog.jpg]({{ site.baseurl }}/assets/images/aso-articles/wood-frog.jpg)]({{ site.baseurl }}/assets/images/aso-articles/wood-frog.jpg)
 <span class="credit">Image credit: <a href="https://www.flickr.com/photos/briangratwicke/">Brian Gratwicke</a> via <a href="https://www.flickr.com/photos/briangratwicke/13491404025/">Flickr</a> (<a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>)</span>
 
 

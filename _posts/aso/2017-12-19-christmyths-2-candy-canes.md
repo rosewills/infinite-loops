@@ -26,7 +26,7 @@ Peppermint improves cognitive function.
 Your grade school teachers were right all along.
 
 
-[![candy-canes.jpg]({% link /assets/images/aso-articles/candy-canes.jpg %})](/assets/images/aso-articles/candy-canes.jpg)
+[![candy-canes.jpg]({{ site.baseurl }}/assets/images/aso-articles/candy-canes.jpg)]({{ site.baseurl }}/assets/images/aso-articles/candy-canes.jpg)
 <span class="credit">Image credit: <a href="https://www.flickr.com/photos/calliope/">Liz West</a> via <a href="https://www.flickr.com/photos/calliope/301480930/">Flickr</a> (<a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>)</span>
 
 
